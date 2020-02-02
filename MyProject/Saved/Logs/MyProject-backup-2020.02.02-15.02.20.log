@@ -1,0 +1,1178 @@
+﻿Log file open, 02/02/20 09:55:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.240264
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.02-14.55.39:134][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-14.55.39:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.02-14.55.39:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-14.55.39:135][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-14.55.39:143][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-14.55.39:143][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-14.55.39:144][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-14.55.39:144][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-14.55.39:144][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.02-14.55.39:172][  0]LogHAL: Display: Platform has ~ 32 GB [34271805440 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.02-14.55.39:172][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.02-14.55.39:172][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-14.55.39:172][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:172][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-14.55.39:173][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-14.55.39:174][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.02-14.55.39:175][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.02-14.55.39:175][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.02-14.55.39:175][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-14.55.39:175][  0]LogInit: Computer: MT-R209-01
+[2020.02.02-14.55.39:175][  0]LogInit: User: jcamar20
+[2020.02.02-14.55.39:175][  0]LogInit: CPU Page size=4096, Cores=16
+[2020.02.02-14.55.39:175][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.02-14.55.39:175][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.02.02-14.55.39:175][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.02-14.55.39:175][  0]LogMemory: Process Physical Memory: 111.53 MB used, 111.54 MB peak
+[2020.02.02-14.55.39:175][  0]LogMemory: Process Virtual Memory: 106.73 MB used, 106.73 MB peak
+[2020.02.02-14.55.39:175][  0]LogMemory: Physical Memory: 9861.32 MB used,  22822.82 MB free, 32684.14 MB total
+[2020.02.02-14.55.39:175][  0]LogMemory: Virtual Memory: 4791.07 MB used,  134212936.00 MB free, 134217728.00 MB total
+[2020.02.02-14.55.39:183][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.02-14.55.39:260][  0]LogInit: Using OS detected language (en-US).
+[2020.02.02-14.55.39:260][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.02-14.55.39:262][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.02-14.55.39:538][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.02-14.55.39:615][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.02-14.55.39:615][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.02-14.55.41:943][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-14.55.41:943][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.02-14.55.42:090][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.02-14.55.42:091][  0]LogD3D11RHI:       8079/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.02-14.55.42:098][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.02-14.55.42:098][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.02-14.55.42:098][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.02-14.55.42:122][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.02-14.55.42:123][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.02-14.55.42:123][  0]LogWindows: EnumDisplayDevices:
+[2020.02.02-14.55.42:123][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.02-14.55.42:124][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.02-14.55.42:126][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.02-14.55.42:127][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.02-14.55.42:128][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.02-14.55.42:128][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.02-14.55.42:128][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.02.02-14.55.42:128][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.02.02-14.55.42:128][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.02.02-14.55.42:226][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.02-14.55.42:245][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.02-14.55.42:992][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.02-14.55.43:030][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.02-14.55.43:064][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.02-14.55.43:099][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.02-14.55.43:135][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.02-14.55.43:170][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.02-14.55.43:206][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.02-14.55.43:244][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.02-14.55.43:263][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.02-14.55.43:343][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.02-14.55.43:348][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.02-14.55.43:425][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.02-14.55.43:425][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.02-14.55.43:485][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.02-14.55.43:485][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.02-14.55.43:518][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.02-14.55.43:548][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.02-14.55.43:578][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.02-14.55.43:617][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.02-14.55.43:715][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.02-14.55.43:715][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.02-14.55.43:715][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.02-14.55.43:746][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.02-14.55.43:898][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Intermediate/Shaders/WorkingDirectory/47652/).
+[2020.02.02-14.55.43:899][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jcamar20/AppData/Local/Temp/UnrealShaderWorkingDir/452D90404234C091E07C289B06EF4644/'.
+[2020.02.02-14.55.43:906][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.02-14.55.43:906][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.02-14.55.43:906][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.02-14.55.46:642][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.02-14.55.46:731][  0]LogDerivedDataCache: Loaded boot cache 0.09s 73MB C:/Users/jcamar20/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.02-14.55.46:743][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jcamar20/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.02-14.55.46:744][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file //sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.02-14.55.46:744][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.02-14.55.46:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file //sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.02-14.55.46:745][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.02-14.55.46:762][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.02-14.55.46:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.02-14.55.46:763][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.02-14.55.46:773][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jcamar20/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.02-14.55.46:773][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.02-14.55.46:773][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.02-14.55.46:802][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.02-14.55.46:805][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.02-14.55.46:814][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.02-14.55.47:368][  0]LogAssetRegistry: FAssetRegistry took 0.0130 seconds to start up
+[2020.02.02-14.55.48:577][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-14.55.48:923][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.02-14.55.48:923][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.02-14.55.48:923][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.02-14.55.48:923][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.02-14.55.48:923][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.02-14.55.48:944][  0]LogNetVersion: MyProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2896792207)
+[2020.02.02-14.55.50:781][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.823166 seconds
+[2020.02.02-14.55.50:790][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.02-14.55.50:790][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.02-14.55.50:790][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.02-14.55.57:033][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.02-14.55.57:040][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.02-14.55.57:040][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.55.57:040][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.55.57:346][  0]SourceControl: Source control is disabled
+[2020.02.02-14.55.57:346][  0]SourceControl: Source control is disabled
+[2020.02.02-14.55.57:350][  0]SourceControl: Source control is disabled
+[2020.02.02-14.55.57:353][  0]SourceControl: Source control is disabled
+[2020.02.02-14.55.58:116][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.02-14.55.58:360][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2020.02.02-14.55.58:362][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.5.425/bin
+[2020.02.02-14.55.58:364][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.02-14.55.58:368][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.02-14.55.58:379][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.02-14.55.58:390][  0]LogOcInput: OculusInput pre-init called
+[2020.02.02-14.55.58:406][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.02-14.55.58:406][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.02-14.55.58:548][  0]LogEngine: Initializing Engine...
+[2020.02.02-14.55.58:552][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-14.55.58:555][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.02.02-14.55.58:948][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.02-14.55.58:984][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.02-14.55.59:022][  0]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-14.55.59:061][  0]LogInit: FAudioDevice initialized.
+[2020.02.02-14.55.59:061][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.02-14.55.59:177][  0]LogDerivedDataCache: Saved boot cache 0.12s 73MB C:/Users/jcamar20/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.02-14.55.59:185][  0]LogInit: Texture streaming: Enabled
+[2020.02.02-14.55.59:241][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.02-14.55.59:242][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.02-14.55.59:256][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.02-14.55.59:488][  0]LogInit: Transaction tracking system initialized
+[2020.02.02-14.55.59:577][  0]BlueprintLog: New page: Editor Load
+[2020.02.02-14.55.59:830][  0]LocalizationService: Localization service is disabled
+[2020.02.02-14.56.00:333][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.02-14.56.00:333][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.02-14.56.00:621][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' took 0.17s
+[2020.02.02-14.56.00:635][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2020.02.02-14.56.00:639][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2020.02.02-14.56.00:930][  0]SourceControl: Source control is disabled
+[2020.02.02-14.56.00:931][  0]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.56.00:940][  0]LightingResults: New page: Lighting Build
+[2020.02.02-14.56.00:947][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-14.56.00:947][  0]MapCheck: New page: Map Check
+[2020.02.02-14.56.00:947][  0]LightingResults: New page: Lighting Build
+[2020.02.02-14.56.01:067][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.02-14.56.04:435][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:437][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:441][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:442][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:447][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:449][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:451][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:453][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:454][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:455][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:456][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:457][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:711][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:711][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-14.56.04:713][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:713][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-14.56.04:714][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:714][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:715][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:715][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:717][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:717][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:718][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:718][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:720][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:720][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:722][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:722][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:723][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:723][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:724][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:725][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:727][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:727][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:728][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:728][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:730][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:730][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:731][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:731][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:732][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:732][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:734][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:734][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:735][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:735][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:736][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:736][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:738][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:738][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:739][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:739][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:740][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:740][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-14.56.04:742][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:742][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-14.56.04:743][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:743][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:744][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:744][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:745][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:746][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:747][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:747][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:748][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:748][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:749][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:749][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:751][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:751][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:752][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:752][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:754][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:754][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:755][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:755][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:756][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:756][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:758][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:758][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:759][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:759][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:760][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:760][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:762][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:762][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:763][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:763][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:764][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:764][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:765][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:765][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-14.56.04:766][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:766][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-14.56.04:768][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:768][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-14.56.04:769][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:769][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-14.56.04:770][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:770][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-14.56.04:833][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:833][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_0
+[2020.02.02-14.56.04:834][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:834][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_0
+[2020.02.02-14.56.04:840][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:840][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_12
+[2020.02.02-14.56.04:841][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:841][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_12
+[2020.02.02-14.56.04:847][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:847][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_14
+[2020.02.02-14.56.04:848][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:848][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_14
+[2020.02.02-14.56.04:851][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:851][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_16
+[2020.02.02-14.56.04:852][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:853][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_16
+[2020.02.02-14.56.04:855][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:855][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_17
+[2020.02.02-14.56.04:856][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:856][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_17
+[2020.02.02-14.56.04:859][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:859][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_18
+[2020.02.02-14.56.04:861][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:861][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_18
+[2020.02.02-14.56.04:864][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:864][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_19
+[2020.02.02-14.56.04:865][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:865][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_19
+[2020.02.02-14.56.04:869][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:869][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.02.02-14.56.04:869][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:870][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.02.02-14.56.04:872][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:872][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_20
+[2020.02.02-14.56.04:873][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-14.56.04:873][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_20
+[2020.02.02-14.56.04:879][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:879][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_21
+[2020.02.02-14.56.04:880][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:880][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_21
+[2020.02.02-14.56.04:884][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:884][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_22
+[2020.02.02-14.56.04:885][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:886][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_22
+[2020.02.02-14.56.04:888][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:888][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_23
+[2020.02.02-14.56.04:889][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:889][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_23
+[2020.02.02-14.56.04:892][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:892][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_24
+[2020.02.02-14.56.04:893][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:893][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_24
+[2020.02.02-14.56.04:896][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:896][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_25
+[2020.02.02-14.56.04:897][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:897][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_25
+[2020.02.02-14.56.04:901][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:901][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_26
+[2020.02.02-14.56.04:902][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:902][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_26
+[2020.02.02-14.56.04:907][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:907][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_27
+[2020.02.02-14.56.04:908][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:908][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_27
+[2020.02.02-14.56.04:910][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:910][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_28
+[2020.02.02-14.56.04:912][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:912][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_28
+[2020.02.02-14.56.04:915][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:915][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_29
+[2020.02.02-14.56.04:916][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:916][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_29
+[2020.02.02-14.56.04:918][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:919][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_3
+[2020.02.02-14.56.04:920][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:920][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_3
+[2020.02.02-14.56.04:923][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:923][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_33
+[2020.02.02-14.56.04:924][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:924][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_33
+[2020.02.02-14.56.04:928][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:928][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_34
+[2020.02.02-14.56.04:929][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-14.56.04:929][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_34
+[2020.02.02-14.56.04:937][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:937][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.02.02-14.56.04:938][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-14.56.04:938][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.02.02-14.56.09:881][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.02-14.56.09:896][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.56.10:006][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.02-14.56.10:006][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.56.10:007][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.889ms to complete.
+[2020.02.02-14.56.10:007][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 9.077
+[2020.02.02-14.56.10:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.56.10:191][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.56.10:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.56.10:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.56.10:314][  0]LogCollectionManager: Loaded 0 collections in 0.084982 seconds
+[2020.02.02-14.56.10:333][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/' took 0.00s
+[2020.02.02-14.56.10:333][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/' took 0.00s
+[2020.02.02-14.56.10:333][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/' took 0.00s
+[2020.02.02-14.56.10:333][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.02.02-14.56.10:348][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2934 classes and 712 folders.
+[2020.02.02-14.56.10:397][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.02.02-14.56.10:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.02.02-14.56.10:834][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2020.02.02-14.56.10:874][  0]LogSlate: Took 0.003856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.02-14.56.10:881][  0]LogSlate: Took 0.003453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.02-14.56.10:891][  0]LogSlate: Took 0.003697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.02-14.56.11:031][  0]LogRenderer: Reallocating scene render targets to support 2064x788 Format 10 NumSamples 1 (Frame:1).
+[2020.02.02-14.56.11:281][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.02-14.56.11:282][  0]LogLoad: (Engine Initialization) Total time: 39.07 seconds
+[2020.02.02-14.56.11:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.02-14.56.11:401][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:402][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/', and we were unable to create a new request.
+[2020.02.02-14.56.11:402][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:402][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/', and we were unable to create a new request.
+[2020.02.02-14.56.11:402][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:403][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:403][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:404][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.02-14.56.11:407][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-14.56.11:560][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:561][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/', and we were unable to create a new request.
+[2020.02.02-14.56.11:561][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:562][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/', and we were unable to create a new request.
+[2020.02.02-14.56.11:562][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-14.56.11:563][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/', and we were unable to create a new request.
+[2020.02.02-14.56.12:354][ 13]LogAssetRegistry: Asset discovery search completed in 24.9879 seconds
+[2020.02.02-14.56.12:359][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.02.02-14.56.12:359][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2020.02.02-14.56.12:683][ 14]LogSlate: Took 0.004527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-14.57.47:453][602]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-14.57.47:459][602]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-14.57.48:968][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.58.24:897][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_ShieldGold.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.24:911][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_TopWall.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.24:925][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Twenties_Gray_Matte.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.24:940][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Twenties_Metal.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.24:958][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Wood.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.24:980][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Yellow_Windows.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:002][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\pasted__Antenna.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:027][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\Roof.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:056][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\RoofLedge.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:085][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\yellow_metal1.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:115][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\AntennaConcrete3.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:155][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\AntennaConcrete10.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:202][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\Concrete.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:256][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\Concrete2.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:320][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\GoldTrim.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:398][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MainBldgConcrete.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:472][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MainBLDGLedges.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:541][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MainBLDGLedges2.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:608][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MainBldgRoof.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:665][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MainLedges.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:718][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_BASE_WithColors.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:765][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_BASE_WithTextures.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:815][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Black_Matte.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:860][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Blue_Windows.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:906][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_BoomBox_Body.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.25:956][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_BoomBox_Cassette.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:009][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_BoomBox_InsideSpeaker.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:072][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_BoomBoxClearColor.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:131][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_BottomWall.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:192][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Brown.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:254][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Cream.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:314][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Dark_BlueMatte.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:375][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Dark_Metallic.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:435][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_DoricColumn.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:493][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Dots.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:557][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Emmisive.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:620][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Glass.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:686][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_GrappleHook_Bread.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:751][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_GrappleHook_Metal.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:815][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Gray_Darker_Matte.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:883][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_MiddleWall.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.26:948][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_Red.COPY'. Unknown extension 'COPY'.
+[2020.02.02-14.58.27:018][708]LogAssetTools: Warning: Failed to import '\\sav-stufile.ad.scad.edu\stuhome\GitHub\GameJam2020\MyProject\Content\Custom\Materials\Imports\MAT_ShieldBronce.COPY'. Unknown extension 'COPY'.
+[2020.02.02-15.02.17:574][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.02.02-15.02.17:759][122]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2020.02.02-15.02.17:760][122]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.02-15.02.17:946][123]Cmd: QUIT_EDITOR
+[2020.02.02-15.02.18:014][123]LogExit: Preparing to exit.
+[2020.02.02-15.02.18:374][123]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-15.02.18:496][123]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-15.02.18:496][123]LogExit: Editor shut down
+[2020.02.02-15.02.18:496][123]LogExit: Transaction tracking system shut down
+[2020.02.02-15.02.18:505][123]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.02-15.02.19:291][123]LogExit: Object subsystem successfully closed.
+[2020.02.02-15.02.19:348][123]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.02-15.02.19:366][123]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (700)
+[2020.02.02-15.02.19:366][123]LogModuleManager: Shutting down and abandoning module SceneOutliner (698)
+[2020.02.02-15.02.19:366][123]LogModuleManager: Shutting down and abandoning module AddContentDialog (696)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module WidgetCarousel (695)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module EditorWidgets (692)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module StatsViewer (688)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (686)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module FoliageEdit (684)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module LandscapeEditor (682)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module MeshPaintMode (680)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (678)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module ActorPickerMode (676)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module GeometryMode (674)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module TextureAlignMode (672)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module BspMode (670)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (668)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (666)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module AutomationWorker (664)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module OculusMR (662)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (660)
+[2020.02.02-15.02.19:367][123]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2020.02.02-15.02.19:367][123]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (658)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (656)
+[2020.02.02-15.02.19:367][123]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (654)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module PlacementMode (653)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MaterialEditor (652)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (648)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (646)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (644)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (642)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (640)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module WebMMedia (638)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (636)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (634)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module SequenceRecorder (633)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (630)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (628)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (626)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (624)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (622)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (620)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (618)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (616)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (614)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (612)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (610)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module PlanarCut (608)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.02.02-15.02.19:368][123]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.02.02-15.02.19:369][123]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.02.02-15.02.19:369][123]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.02.02-15.02.19:369][123]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.02.02-15.02.19:369][123]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (580)
+[2020.02.02-15.02.19:369][123]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (578)
+[2020.02.02-15.02.19:369][123]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (577)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (574)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (572)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (570)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (568)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.02.02-15.02.20:137][123]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.02.02-15.02.20:138][123]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.02.02-15.02.20:192][123]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module MovieSceneTools (494)
+[2020.02.02-15.02.20:193][123]LogModuleManager: Shutting down and abandoning module OutputLog (492)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module GammaUI (490)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module Documentation (488)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module AIModule (466)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module GameplayDebugger (465)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module AITestSuite (463)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module NavigationSystem (461)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module DesktopPlatform (458)
+[2020.02.02-15.02.20:194][123]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.02.02-15.02.20:200][123]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module SteamVRController (448)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (446)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (444)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module OculusEditor (442)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module OculusInput (440)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (438)
+[2020.02.02-15.02.20:259][123]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (436)
+[2020.02.02-15.02.20:259][123]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module EditableMesh (434)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (432)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module CableComponent (430)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module AudioCapture (428)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.02.02-15.02.20:260][123]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module HTML5Networking (404)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (402)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module MeshConversion (400)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module DynamicMesh (398)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (396)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometricObjects (394)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (392)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (391)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (388)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (386)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (384)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (382)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (380)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module FractureEditor (378)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module BackChannel (376)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (374)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module AutomationUtils (372)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module AlembicImporter (370)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module AlembicLibrary (369)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCache (368)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (367)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module VariantManagerContent (362)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (360)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (358)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module PluginBrowser (356)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (354)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (352)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module CurveEditorTools (350)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module CurveEditor (349)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (346)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module CryptoKeys (344)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (342)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (340)
+[2020.02.02-15.02.20:261][123]LogModuleManager: Shutting down and abandoning module UObjectPlugin (338)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (336)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (334)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module GitSourceControl (332)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module SourceControl (331)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (328)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (326)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (324)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (322)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (320)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (318)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (316)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module Paper2DEditor (314)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module SignificanceManager (312)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (310)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (308)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (304)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (302)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module ApexDestruction (300)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.02.02-15.02.20:262][123]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.02.02-15.02.20:363][123]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.02.02-15.02.20:464][123]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.02.02-15.02.20:464][123]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.02.02-15.02.20:465][123]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.02.02-15.02.20:465][123]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.02.02-15.02.20:465][123]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.02.02-15.02.20:466][123]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.02.02-15.02.20:469][123]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.02.02-15.02.20:471][123]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.02.02-15.02.20:471][123]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.02.02-15.02.20:471][123]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.02-15.02.20:471][123]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.02.02-15.02.20:471][123]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.02.02-15.02.20:473][123]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.02.02-15.02.20:474][123]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.02.02-15.02.20:474][123]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.02.02-15.02.20:474][123]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.02.02-15.02.20:474][123]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.02.02-15.02.20:474][123]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.02.02-15.02.20:474][123]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.02.02-15.02.20:474][123]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.02.02-15.02.20:475][123]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.02.02-15.02.20:476][123]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.02.02-15.02.20:476][123]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.02.02-15.02.20:476][123]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.02.02-15.02.20:476][123]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.02.02-15.02.20:476][123]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.02.02-15.02.20:476][123]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.02.02-15.02.20:476][123]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.02.02-15.02.20:534][123]LogDerivedDataCache: Shutdown
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.02.02-15.02.20:534][123]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.02.02-15.02.20:535][123]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.02.02-15.02.20:535][123]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.02.02-15.02.20:535][123]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.02.02-15.02.20:535][123]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.02.02-15.02.20:535][123]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.02.02-15.02.20:535][123]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.02.02-15.02.20:535][123]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.02-15.02.20:536][123]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.02.02-15.02.20:536][123]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.02.02-15.02.20:536][123]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.02.02-15.02.20:536][123]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.02.02-15.02.20:536][123]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.02.02-15.02.20:537][123]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.02.02-15.02.20:537][123]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.02.02-15.02.20:538][123]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.02.02-15.02.20:538][123]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.02-15.02.20:546][123]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.02.02-15.02.20:547][123]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.02.02-15.02.20:547][123]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.02.02-15.02.20:548][123]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.02.02-15.02.20:548][123]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.02.02-15.02.20:573][123]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.02.02-15.02.20:573][123]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.02-15.02.20:573][123]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCEC4DAA6-4C5F-975A-B9AF-7BA4C2B74007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=b2e2e8de4419e9af3432b3b38b89a75d%7C0ffe611c19f94894a84a9fb22575ba4e%7Cf7bc10c0-2eb1-40f0-813f-fc270103e742&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.02-15.02.20:582][123]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.02.02-15.02.20:583][123]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.02.02-15.02.20:585][123]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.02.02-15.02.20:586][123]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.02.02-15.02.20:586][123]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.02.02-15.02.20:594][123]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.02.02-15.02.20:594][123]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.02-15.02.20:594][123]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.02-15.02.20:594][123]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.02-15.02.20:594][123]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.02-15.02.20:594][123]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.02-15.02.20:594][123]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.02-15.02.20:595][123]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.02-15.02.20:595][123]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.02-15.02.20:595][123]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.02-15.02.20:596][123]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.02-15.02.20:599][123]LogD3D11RHI: Shutdown
+[2020.02.02-15.02.20:599][123]LogD3D11RHI: CleanupD3DDevice
+[2020.02.02-15.02.20:600][123]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.02-15.02.20:600][123]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.02-15.02.20:600][123]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.02-15.02.20:717][123]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.02-15.02.20:763][123]LogExit: Exiting.
+[2020.02.02-15.02.20:768][123]Log file closed, 02/02/20 10:02:20
