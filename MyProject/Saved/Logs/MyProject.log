@@ -1022,3 +1022,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-09.49.08:701][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.02-09.49.08:706][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
 [2020.02.02-09.49.08:736][101]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.02-09.51.54:854][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.02-09.51.56:374][866]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BlockOutBetter_Auto18B0367474383EF81A1B9C5A426B53FE6.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/BlockOutBetter_Auto1.umap'
+[2020.02.02-09.51.56:481][866]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/BlockOutBetter' took 1.737
+[2020.02.02-09.51.56:481][866]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.737
+[2020.02.02-09.54.58:825][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-09.55.30:317][ 30]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.02-09.55.30:317][ 30]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: URL: C:\Users\jcamar20\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.02-09.55.30:318][ 30]LogWindows: Warning: URL: C:\Users\jcamar20\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.02.02-09.55.30:319][ 30]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.02-09.55.30:319][ 30]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.02.02-09.56.11:854][450]SourceControl: Source control is disabled
+[2020.02.02-09.56.11:854][450]LogSlate: Window 'Source Control Login' being destroyed
