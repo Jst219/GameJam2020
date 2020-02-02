@@ -1,0 +1,1024 @@
+﻿Log file open, 02/02/20 00:06:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.225900
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-05.06.03:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.02-05.06.03:057][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.02-05.06.03:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-05.06.03:058][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-05.06.03:065][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-05.06.03:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-05.06.03:066][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-05.06.03:066][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-05.06.03:066][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.02-05.06.03:104][  0]LogHAL: Display: Platform has ~ 32 GB [34271805440 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.02-05.06.03:104][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.02-05.06.03:104][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-05.06.03:104][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-05.06.03:105][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-05.06.03:105][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-05.06.03:106][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-05.06.03:106][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.02-05.06.03:110][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.02-05.06.03:110][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.02-05.06.03:110][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.02.02-05.06.03:110][  0]LogInit: Computer: MT-R209-01
+[2020.02.02-05.06.03:110][  0]LogInit: User: jcamar20
+[2020.02.02-05.06.03:110][  0]LogInit: CPU Page size=4096, Cores=16
+[2020.02.02-05.06.03:110][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.02-05.06.03:110][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.02.02-05.06.03:110][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.02-05.06.03:110][  0]LogMemory: Process Physical Memory: 110.95 MB used, 110.95 MB peak
+[2020.02.02-05.06.03:110][  0]LogMemory: Process Virtual Memory: 106.85 MB used, 106.85 MB peak
+[2020.02.02-05.06.03:110][  0]LogMemory: Physical Memory: 7439.82 MB used,  25244.32 MB free, 32684.14 MB total
+[2020.02.02-05.06.03:110][  0]LogMemory: Virtual Memory: 4791.08 MB used,  134212936.00 MB free, 134217728.00 MB total
+[2020.02.02-05.06.03:118][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.02-05.06.03:191][  0]LogInit: Using OS detected language (en-US).
+[2020.02.02-05.06.03:191][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.02-05.06.03:192][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.02-05.06.03:456][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.02-05.06.03:558][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.02-05.06.03:558][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.02-05.06.05:806][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-05.06.05:807][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.02-05.06.05:942][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.02-05.06.05:942][  0]LogD3D11RHI:       8079/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.02-05.06.05:950][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.02-05.06.05:950][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.02-05.06.05:950][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.02-05.06.05:967][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.02-05.06.05:967][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.02-05.06.05:967][  0]LogWindows: EnumDisplayDevices:
+[2020.02.02-05.06.05:967][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.02-05.06.05:968][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.02-05.06.05:969][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.02-05.06.05:970][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.02-05.06.05:970][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.02-05.06.05:970][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.02-05.06.05:970][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.02.02-05.06.05:970][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.02.02-05.06.05:970][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.02.02-05.06.06:053][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.02-05.06.06:069][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.02-05.06.06:793][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.02-05.06.06:834][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.02-05.06.06:876][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.02-05.06.06:914][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.02-05.06.06:953][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.02-05.06.06:989][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.02-05.06.07:027][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.02-05.06.07:066][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.02-05.06.07:095][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.02-05.06.07:175][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.02-05.06.07:180][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.02-05.06.07:262][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.02-05.06.07:262][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.02-05.06.07:344][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.02-05.06.07:344][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.02-05.06.07:383][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.02-05.06.07:423][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.02-05.06.07:471][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.02-05.06.07:531][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.02-05.06.07:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.02-05.06.07:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.02-05.06.07:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.02-05.06.07:660][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.02-05.06.07:791][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Intermediate/Shaders/WorkingDirectory/44904/).
+[2020.02.02-05.06.07:791][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jcamar20/AppData/Local/Temp/UnrealShaderWorkingDir/9A2982824C26207FCC4972BF35356CB1/'.
+[2020.02.02-05.06.07:796][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.02-05.06.07:796][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.02-05.06.07:796][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.02-05.06.10:586][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.02-05.06.10:685][  0]LogDerivedDataCache: Loaded boot cache 0.10s 73MB C:/Users/jcamar20/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.02-05.06.10:685][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jcamar20/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.02-05.06.10:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file //sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.02-05.06.10:687][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.02-05.06.10:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file //sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.02-05.06.10:688][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.02-05.06.10:705][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.02-05.06.10:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.02-05.06.10:705][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.02-05.06.10:715][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jcamar20/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.02-05.06.10:715][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.02-05.06.10:715][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.02-05.06.10:744][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.02-05.06.10:747][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.02-05.06.10:757][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.02-05.06.11:294][  0]LogAssetRegistry: FAssetRegistry took 0.0166 seconds to start up
+[2020.02.02-05.06.13:196][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-05.06.13:549][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.02-05.06.13:549][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.02-05.06.13:549][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.02-05.06.13:549][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.02-05.06.13:549][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.02-05.06.13:576][  0]LogNetVersion: MyProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2896792207)
+[2020.02.02-05.06.16:121][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 1.556910 seconds
+[2020.02.02-05.06.16:129][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.02-05.06.16:129][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.02-05.06.16:129][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.02-05.06.21:833][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.02-05.06.21:837][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.02-05.06.21:837][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.21:838][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.22:153][  0]SourceControl: Source control is disabled
+[2020.02.02-05.06.22:153][  0]SourceControl: Source control is disabled
+[2020.02.02-05.06.22:157][  0]SourceControl: Source control is disabled
+[2020.02.02-05.06.22:161][  0]SourceControl: Source control is disabled
+[2020.02.02-05.06.23:036][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.02-05.06.23:243][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2020.02.02-05.06.23:245][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.5.425/bin
+[2020.02.02-05.06.23:249][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.02-05.06.23:255][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.02-05.06.23:266][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.02-05.06.23:279][  0]LogOcInput: OculusInput pre-init called
+[2020.02.02-05.06.23:292][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.02-05.06.23:292][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.02-05.06.23:428][  0]LogEngine: Initializing Engine...
+[2020.02.02-05.06.23:431][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-05.06.23:434][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.02.02-05.06.23:827][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.02-05.06.23:860][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.02-05.06.23:889][  0]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-05.06.23:945][  0]LogInit: FAudioDevice initialized.
+[2020.02.02-05.06.23:945][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.02-05.06.24:043][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/jcamar20/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.02-05.06.24:052][  0]LogInit: Texture streaming: Enabled
+[2020.02.02-05.06.24:098][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.02-05.06.24:098][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.02-05.06.24:112][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.02-05.06.24:549][  0]LogInit: Transaction tracking system initialized
+[2020.02.02-05.06.24:625][  0]BlueprintLog: New page: Editor Load
+[2020.02.02-05.06.24:889][  0]LocalizationService: Localization service is disabled
+[2020.02.02-05.06.25:422][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.02-05.06.25:422][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.02-05.06.25:816][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' took 0.19s
+[2020.02.02-05.06.25:816][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2020.02.02-05.06.25:824][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2020.02.02-05.06.26:030][  0]SourceControl: Source control is disabled
+[2020.02.02-05.06.26:030][  0]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-05.06.26:055][  0]LightingResults: New page: Lighting Build
+[2020.02.02-05.06.26:060][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-05.06.26:060][  0]MapCheck: New page: Map Check
+[2020.02.02-05.06.26:060][  0]LightingResults: New page: Lighting Build
+[2020.02.02-05.06.26:166][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.02-05.06.30:442][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:443][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:447][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:449][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:454][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:455][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:457][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:458][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:459][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:460][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:461][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:463][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:906][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:906][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-05.06.30:907][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:907][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-05.06.30:908][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:908][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:909][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:909][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:911][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:911][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:911][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:911][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:912][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:912][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:913][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:913][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:915][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:915][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:916][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:916][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:917][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:918][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:919][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:919][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:920][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:920][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:921][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:921][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:922][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:922][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:923][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:923][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:924][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:924][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:925][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:925][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:926][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:926][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:928][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:928][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:929][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:929][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-05.06.30:930][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.30:930][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by PostProc_Mat
+[2020.02.02-05.06.30:931][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:931][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:932][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:932][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:933][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:933][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:934][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:934][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:935][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:935][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:936][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:936][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:937][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:938][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:939][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:939][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:941][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:941][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:942][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:942][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:943][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:943][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:944][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:944][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:945][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:945][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:946][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:946][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:947][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:947][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:948][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:948][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:950][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:950][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:951][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.30:951][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by PostProc_Mat
+[2020.02.02-05.06.30:952][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:952][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-05.06.30:953][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:954][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-05.06.30:954][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:955][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-05.06.30:956][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.30:956][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by PostProc_Mat
+[2020.02.02-05.06.31:012][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.31:012][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_0
+[2020.02.02-05.06.31:013][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.31:013][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_0
+[2020.02.02-05.06.31:018][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:018][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_12
+[2020.02.02-05.06.31:019][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:019][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_12
+[2020.02.02-05.06.31:023][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:023][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_14
+[2020.02.02-05.06.31:024][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:024][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_14
+[2020.02.02-05.06.31:027][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:027][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_16
+[2020.02.02-05.06.31:028][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:028][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_16
+[2020.02.02-05.06.31:031][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:031][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_17
+[2020.02.02-05.06.31:032][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:032][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_17
+[2020.02.02-05.06.31:034][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:034][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_18
+[2020.02.02-05.06.31:035][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:035][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_18
+[2020.02.02-05.06.31:038][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:038][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_19
+[2020.02.02-05.06.31:039][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:039][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_19
+[2020.02.02-05.06.31:041][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:041][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.02.02-05.06.31:042][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:042][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.02.02-05.06.31:045][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.31:045][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_20
+[2020.02.02-05.06.31:046][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/SampleNeighbor': Can't find file.
+[2020.02.02-05.06.31:046][  0]LoadErrors: Failed to load /Game/MatTesting/SampleNeighbor.SampleNeighbor Referenced by MaterialExpressionMaterialFunctionCall_20
+[2020.02.02-05.06.31:051][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:051][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_21
+[2020.02.02-05.06.31:052][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:052][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_21
+[2020.02.02-05.06.31:054][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:055][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_22
+[2020.02.02-05.06.31:056][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:056][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_22
+[2020.02.02-05.06.31:058][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:058][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_23
+[2020.02.02-05.06.31:059][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:059][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_23
+[2020.02.02-05.06.31:062][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:062][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_24
+[2020.02.02-05.06.31:063][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:063][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_24
+[2020.02.02-05.06.31:065][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:065][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_25
+[2020.02.02-05.06.31:066][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:066][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_25
+[2020.02.02-05.06.31:069][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:069][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_26
+[2020.02.02-05.06.31:070][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:071][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_26
+[2020.02.02-05.06.31:073][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:073][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_27
+[2020.02.02-05.06.31:074][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:074][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_27
+[2020.02.02-05.06.31:076][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:076][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_28
+[2020.02.02-05.06.31:077][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:077][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_28
+[2020.02.02-05.06.31:081][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:081][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_29
+[2020.02.02-05.06.31:082][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:082][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_29
+[2020.02.02-05.06.31:084][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:084][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_3
+[2020.02.02-05.06.31:085][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:085][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_3
+[2020.02.02-05.06.31:088][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.31:088][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_33
+[2020.02.02-05.06.31:089][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.31:089][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_33
+[2020.02.02-05.06.31:092][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.31:092][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_34
+[2020.02.02-05.06.31:093][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/Convolve': Can't find file.
+[2020.02.02-05.06.31:093][  0]LoadErrors: Failed to load /Game/MatTesting/Convolve.Convolve Referenced by MaterialExpressionMaterialFunctionCall_34
+[2020.02.02-05.06.31:098][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:098][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.02.02-05.06.31:099][  0]LogLinker: Warning: While loading '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/PostProc_Mat.uasset' failed to load '/Game/MatTesting/ExtractDepth': Can't find file.
+[2020.02.02-05.06.31:099][  0]LoadErrors: Failed to load /Game/MatTesting/ExtractDepth.ExtractDepth Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.02.02-05.06.36:569][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.02-05.06.36:582][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-05.06.36:716][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.02-05.06.36:717][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-05.06.36:718][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.937ms to complete.
+[2020.02.02-05.06.36:718][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 10.688
+[2020.02.02-05.06.36:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-05.06.36:951][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-05.06.36:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-05.06.36:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-05.06.37:014][  0]LogCollectionManager: Loaded 0 collections in 0.024862 seconds
+[2020.02.02-05.06.37:043][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/' took 0.00s
+[2020.02.02-05.06.37:043][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/' took 0.01s
+[2020.02.02-05.06.37:043][  0]LogFileCache: Scanning file cache for directory '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/' took 0.00s
+[2020.02.02-05.06.37:043][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.02-05.06.37:054][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2934 classes and 712 folders.
+[2020.02.02-05.06.37:067][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.02-05.06.37:436][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.02.02-05.06.37:442][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.02.02-05.06.37:496][  0]LogSlate: Took 0.003589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.02-05.06.37:501][  0]LogSlate: Took 0.003293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.02-05.06.37:512][  0]LogSlate: Took 0.004182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.02-05.06.37:629][  0]LogRenderer: Reallocating scene render targets to support 2172x808 Format 10 NumSamples 1 (Frame:1).
+[2020.02.02-05.06.37:853][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.02-05.06.37:853][  0]LogLoad: (Engine Initialization) Total time: 41.58 seconds
+[2020.02.02-05.06.37:853][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.02-05.06.37:947][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.37:954][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/', and we were unable to create a new request.
+[2020.02.02-05.06.37:954][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.37:955][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/', and we were unable to create a new request.
+[2020.02.02-05.06.37:955][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.37:955][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.37:955][  0]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.37:957][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.02-05.06.37:961][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-05.06.38:145][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.38:146][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Collections/', and we were unable to create a new request.
+[2020.02.02-05.06.38:146][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.38:146][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Collections/', and we were unable to create a new request.
+[2020.02.02-05.06.38:146][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.02-05.06.38:158][  1]LogDirectoryWatcher: A directory notification failed for '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Developers/jcamar20/Collections/', and we were unable to create a new request.
+[2020.02.02-05.06.39:101][ 12]LogSlate: Took 0.003890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-05.06.40:014][ 25]LogAssetRegistry: Asset discovery search completed in 28.7216 seconds
+[2020.02.02-05.06.40:018][ 25]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.02.02-05.06.40:018][ 25]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2020.02.02-05.11.37:876][125]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F96D1189-4067-F599-3368-65B5A072A585}
+[2020.02.02-05.16.37:891][642]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7813F6AD-4133-C87D-B52E-B3AB2A4E6F90}
+[2020.02.02-09.38.19:162][187]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-09.38.19:171][187]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-09.39.07:036][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-09.39.09:348][ 46]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.39.09:362][ 46]LogAssetEditorManager: Opening Asset editor for World /Game/Custom/Maps/BlockOutBetter.BlockOutBetter
+[2020.02.02-09.39.09:469][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.02.02-09.39.09:470][ 46]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/BlockOutBetter.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-09.39.09:470][ 46]LightingResults: New page: Lighting Build
+[2020.02.02-09.39.09:471][ 46]LoadErrors: New page: Loading map: BlockOutBetter.umap
+[2020.02.02-09.39.09:474][ 46]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.39.09:484][ 46]MapCheck: New page: Map Check
+[2020.02.02-09.39.09:484][ 46]LightingResults: New page: Lighting Build
+[2020.02.02-09.39.09:600][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.02-09.39.09:629][ 46]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-09.39.09:743][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.02-09.39.10:196][ 46]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-09.39.10:198][ 46]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.556ms to complete.
+[2020.02.02-09.39.10:198][ 46]LogFileHelpers: Loading map 'BlockOutBetter' took 0.729
+[2020.02.02-09.39.24:558][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BuildingFiller5)
+[2020.02.02-09.39.53:658][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BuildingFiller)
+[2020.02.02-09.40.00:106][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloatingBuilding)
+[2020.02.02-09.40.01:222][689]Cmd: TRANSACTION UNDO
+[2020.02.02-09.40.01:222][689]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-09.40.10:889][734]LogEditorViewport: Clicking on Actor (LMB): BP_MOVONLANDING_C (BP_MOVONLANDING3)
+[2020.02.02-09.40.15:431][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-09.40.18:812][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-09.40.18:904][610]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-09.40.18:939][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.18:939][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-09.40.18:940][610]PIE: New page: PIE session: BlockOutBetter (Feb 1, 2020, 11:40:18 PM)
+[2020.02.02-09.40.18:941][610]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.02-09.40.18:943][610]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.40.18:961][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015570s)
+[2020.02.02-09.40.18:962][610]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.40.18:962][610]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2020.02.02-09.40.18:962][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/BlockOutBetter.BlockOutBetter to /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter (0.019057s)
+[2020.02.02-09.40.19:064][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.02-09.40.19:084][610]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-09.40.19:105][610]LogInit: FAudioDevice initialized.
+[2020.02.02-09.40.19:118][610]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.40.19:121][610]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter up for play (max tick rate 0) at 2020.02.02-04.40.19
+[2020.02.02-09.40.19:121][610]LogWorld: Bringing up level for play took: 0.001654
+[2020.02.02-09.40.19:121][610]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.02-09.40.19:183][610]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2020.02.02-09.40.19:185][610]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter 0.193
+[2020.02.02-09.40.19:186][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.30:471][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.30:472][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.40.30:472][903]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.40.30:472][903]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.40.30:485][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-09.40.30:485][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.30:589][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.40.30:593][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.02-09.40.30:623][904]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.02-09.40.47:140][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-09.40.47:189][845]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-09.40.47:220][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.47:220][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-09.40.47:220][845]PIE: New page: PIE session: BlockOutBetter (Feb 1, 2020, 11:40:47 PM)
+[2020.02.02-09.40.47:220][845]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.40.47:226][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006037s)
+[2020.02.02-09.40.47:229][845]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.40.47:229][845]LogPlayLevel: PIE: World Init took: (0.001634s)
+[2020.02.02-09.40.47:229][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/BlockOutBetter.BlockOutBetter to /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter (0.007838s)
+[2020.02.02-09.40.47:336][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.02-09.40.47:355][845]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-09.40.47:373][845]LogInit: FAudioDevice initialized.
+[2020.02.02-09.40.47:385][845]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.40.47:387][845]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter up for play (max tick rate 0) at 2020.02.02-04.40.47
+[2020.02.02-09.40.47:387][845]LogWorld: Bringing up level for play took: 0.001294
+[2020.02.02-09.40.47:387][845]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.02-09.40.47:391][845]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter 0.399
+[2020.02.02-09.40.47:391][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.53:147][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.53:147][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.40.53:147][529]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.40.53:148][529]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.40.53:163][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-09.40.53:163][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.40.53:254][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.40.53:258][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.02-09.40.53:287][530]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.02-09.40.56:684][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Car3)
+[2020.02.02-09.41.02:868][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Car)
+[2020.02.02-09.41.02:992][584]Cmd: DELETE
+[2020.02.02-09.41.02:993][584]Cmd: ACTOR DELETE
+[2020.02.02-09.41.02:994][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-09.41.03:097][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.02-09.41.03:097][584]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2020.02.02-09.41.04:028][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-09.41.04:134][706]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-09.41.04:167][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.41.04:167][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-09.41.04:167][706]PIE: New page: PIE session: BlockOutBetter (Feb 1, 2020, 11:41:04 PM)
+[2020.02.02-09.41.04:168][706]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.41.04:174][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006278s)
+[2020.02.02-09.41.04:176][706]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.41.04:176][706]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2020.02.02-09.41.04:176][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/BlockOutBetter.BlockOutBetter to /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter (0.008213s)
+[2020.02.02-09.41.04:291][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.02-09.41.04:310][706]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-09.41.04:328][706]LogInit: FAudioDevice initialized.
+[2020.02.02-09.41.04:338][706]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.41.04:340][706]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter up for play (max tick rate 0) at 2020.02.02-04.41.04
+[2020.02.02-09.41.04:340][706]LogWorld: Bringing up level for play took: 0.001400
+[2020.02.02-09.41.04:340][706]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.02-09.41.04:344][706]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter -0.648
+[2020.02.02-09.41.04:344][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.41.41:871][202]Set new viewmode: Wireframe
+[2020.02.02-09.41.43:672][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.41.43:672][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.41.43:672][418]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.41.43:673][418]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.41.43:686][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-09.41.43:686][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.41.43:780][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.41.43:784][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.02-09.41.43:813][419]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.02-09.43.11:461][851]LogEditorViewport: Clicking on Actor (LMB): BP_upAndDown_C (BP_upAndDown2)
+[2020.02.02-09.43.12:504][964]Cmd: DELETE
+[2020.02.02-09.43.12:504][964]Cmd: ACTOR DELETE
+[2020.02.02-09.43.12:506][964]LogEditorActor: Deleted Actor: BP_upAndDown_C
+[2020.02.02-09.43.12:593][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.02-09.43.12:593][964]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2020.02.02-09.43.21:284][979]LogEditorViewport: Clicking on Actor (LMB): BP_MOVONLANDING_C (BP_MOVONLANDING3)
+[2020.02.02-09.43.46:381][621]Cmd: TRANSACTION UNDO
+[2020.02.02-09.43.46:382][621]LogEditorTransaction: Undo Move Actors
+[2020.02.02-09.43.46:745][643]Cmd: TRANSACTION UNDO
+[2020.02.02-09.43.46:745][643]LogEditorTransaction: Undo Rotate Actors
+[2020.02.02-09.43.47:216][691]Cmd: TRANSACTION UNDO
+[2020.02.02-09.43.47:216][691]LogEditorTransaction: Undo Rotate Actors
+[2020.02.02-09.43.50:790][ 99]LogEditorViewport: Clicking on Actor (LMB): BP_NextLevel_C (BP_NextLevel)
+[2020.02.02-09.43.54:609][524]Cmd: TRANSACTION UNDO
+[2020.02.02-09.43.54:609][524]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-09.44.33:490][896]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.02-09.44.34:995][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_NextLevel_C (BP_NextLevel)
+[2020.02.02-09.44.41:549][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-09.44.41:633][813]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-09.44.41:666][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.44.41:666][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-09.44.41:666][813]PIE: New page: PIE session: BlockOutBetter (Feb 1, 2020, 11:44:41 PM)
+[2020.02.02-09.44.41:666][813]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.44.41:672][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005848s)
+[2020.02.02-09.44.41:674][813]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.44.41:674][813]LogPlayLevel: PIE: World Init took: (0.001921s)
+[2020.02.02-09.44.41:674][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/BlockOutBetter.BlockOutBetter to /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter (0.007891s)
+[2020.02.02-09.44.41:780][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.02.02-09.44.41:799][813]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-09.44.41:817][813]LogInit: FAudioDevice initialized.
+[2020.02.02-09.44.41:830][813]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.44.41:832][813]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter up for play (max tick rate 0) at 2020.02.02-04.44.41
+[2020.02.02-09.44.41:832][813]LogWorld: Bringing up level for play took: 0.001270
+[2020.02.02-09.44.41:832][813]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.02.02-09.44.41:836][813]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter 0.843
+[2020.02.02-09.44.41:836][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.04:133][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.04:133][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.45.04:133][472]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.45.04:133][472]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.45.04:149][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-09.45.04:149][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.04:238][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.45.04:242][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.02-09.45.04:272][473]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.02-09.45.05:872][630]LogEditorViewport: Clicking on Actor (LMB): BP_MOVONLANDING_C (BP_MOVONLANDING3)
+[2020.02.02-09.45.07:450][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-09.45.10:484][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-09.45.10:517][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.10:518][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-09.45.10:518][ 43]PIE: New page: PIE session: BlockOutBetter (Feb 1, 2020, 11:45:10 PM)
+[2020.02.02-09.45.10:518][ 43]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.45.10:524][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005442s)
+[2020.02.02-09.45.10:525][ 43]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.45.10:525][ 43]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2020.02.02-09.45.10:525][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/BlockOutBetter.BlockOutBetter to /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter (0.007149s)
+[2020.02.02-09.45.10:589][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.02.02-09.45.10:608][ 43]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-09.45.10:626][ 43]LogInit: FAudioDevice initialized.
+[2020.02.02-09.45.10:639][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.45.10:640][ 43]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter up for play (max tick rate 0) at 2020.02.02-04.45.10
+[2020.02.02-09.45.10:640][ 43]LogWorld: Bringing up level for play took: 0.001464
+[2020.02.02-09.45.10:641][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.02.02-09.45.10:644][ 43]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter -0.349
+[2020.02.02-09.45.10:644][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.37:264][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.37:264][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.45.37:264][231]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.45.37:264][231]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.45.37:274][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-09.45.37:274][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.37:367][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.45.37:370][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.02-09.45.37:401][232]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.02-09.45.41:278][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-09.45.42:628][835]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-09.45.42:659][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.45.42:659][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-09.45.42:659][835]PIE: New page: PIE session: BlockOutBetter (Feb 1, 2020, 11:45:42 PM)
+[2020.02.02-09.45.42:659][835]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.45.42:665][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006071s)
+[2020.02.02-09.45.42:667][835]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.45.42:667][835]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2020.02.02-09.45.42:667][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/BlockOutBetter.BlockOutBetter to /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter (0.008150s)
+[2020.02.02-09.45.42:765][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.02-09.45.42:784][835]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-09.45.42:803][835]LogInit: FAudioDevice initialized.
+[2020.02.02-09.45.42:818][835]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.45.42:820][835]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter up for play (max tick rate 0) at 2020.02.02-04.45.42
+[2020.02.02-09.45.42:820][835]LogWorld: Bringing up level for play took: 0.001458
+[2020.02.02-09.45.42:820][835]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.02.02-09.45.42:825][835]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter -0.169
+[2020.02.02-09.45.42:825][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.46.30:793][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.46.30:793][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.46.30:793][571]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.46.30:793][571]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.46.30:803][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-09.46.30:803][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.46.30:897][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.46.30:901][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.02-09.46.30:929][572]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.02-09.48.40:646][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Billboard4)
+[2020.02.02-09.48.55:234][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-09.48.57:273][901]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-09.48.57:303][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.48.57:303][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-09.48.57:303][901]PIE: New page: PIE session: BlockOutBetter (Feb 1, 2020, 11:48:57 PM)
+[2020.02.02-09.48.57:303][901]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.48.57:310][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006232s)
+[2020.02.02-09.48.57:311][901]LogAIModule: Creating AISystem for world BlockOutBetter
+[2020.02.02-09.48.57:311][901]LogPlayLevel: PIE: World Init took: (0.001747s)
+[2020.02.02-09.48.57:312][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/BlockOutBetter.BlockOutBetter to /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter (0.008129s)
+[2020.02.02-09.48.57:384][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.02-09.48.57:403][901]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-09.48.57:424][901]LogInit: FAudioDevice initialized.
+[2020.02.02-09.48.57:434][901]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.48.57:436][901]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_BlockOutBetter.BlockOutBetter up for play (max tick rate 0) at 2020.02.02-04.48.57
+[2020.02.02-09.48.57:436][901]LogWorld: Bringing up level for play took: 0.001440
+[2020.02.02-09.48.57:436][901]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.02-09.48.57:440][901]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter 0.445
+[2020.02.02-09.48.57:440][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.49.06:549][988]LogBlueprintUserMessages: [BP_NextLevel_2] Hello
+[2020.02.02-09.49.06:560][989]LogNet: Browse: /Game/Custom/Maps/MAP_2nd
+[2020.02.02-09.49.06:560][989]LogLoad: LoadMap: /Game/Custom/Maps/MAP_2nd
+[2020.02.02-09.49.06:560][989]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_BlockOutBetter
+[2020.02.02-09.49.06:560][989]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.49.06:621][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.02-09.49.07:529][989]LogAIModule: Creating AISystem for world MAP_2nd
+[2020.02.02-09.49.07:530][989]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-09.49.07:536][989]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_2nd.MAP_2nd up for play (max tick rate 0) at 2020.02.02-04.49.07
+[2020.02.02-09.49.07:537][989]LogWorld: Bringing up level for play took: 0.006100
+[2020.02.02-09.49.07:539][989]LogLoad: Took 0.978634 seconds to LoadMap(/Game/Custom/Maps/MAP_2nd)
+[2020.02.02-09.49.08:618][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.49.08:618][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.49.08:618][100]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_2nd
+[2020.02.02-09.49.08:618][100]LogWorld: UWorld::CleanupWorld for MAP_2nd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-09.49.08:628][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-09.49.08:628][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter' with GeneratedClass '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter_C' with ClassGeneratedBy '/Game/Custom/Maps/BlockOutBetter.BlockOutBetter:PersistentLevel.BlockOutBetter'
+[2020.02.02-09.49.08:701][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-09.49.08:706][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.02-09.49.08:736][101]LogPlayLevel: Display: Destroying online subsystem :Context_9
