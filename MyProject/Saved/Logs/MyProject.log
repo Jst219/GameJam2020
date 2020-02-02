@@ -10139,3 +10139,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-15.52.53:939][647]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_2nd422478ED42339F83570CFC9FE7373FA7.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_2nd.umap'
 [2020.02.02-15.52.54:061][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/MAP_2nd_BuiltData" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_2nd_BuiltData.uasset" SILENT=true
 [2020.02.02-15.52.54:899][647]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_2nd_BuiltData81C888844375A8820FC9D0A9DDEC2CCD.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_2nd_BuiltData.uasset'
+[2020.02.02-15.56.07:809][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-15.56.08:576][494]LogAIModule: Creating AISystem for world Map_1st
+[2020.02.02-15.56.08:605][494]LogAssetEditorManager: Opening Asset editor for World /Game/Custom/Maps/Map_1st.Map_1st
+[2020.02.02-15.56.08:673][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.02-15.56.08:675][494]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/Map_1st.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-15.56.08:675][494]LightingResults: New page: Lighting Build
+[2020.02.02-15.56.08:676][494]LoadErrors: New page: Loading map: Map_1st.umap
+[2020.02.02-15.56.08:677][494]LogWorld: UWorld::CleanupWorld for MAP_2nd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-15.56.08:678][494]MapCheck: New page: Map Check
+[2020.02.02-15.56.08:678][494]LightingResults: New page: Lighting Build
+[2020.02.02-15.56.08:747][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.02-15.56.08:761][494]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-15.56.08:834][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.02.02-15.56.08:898][494]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-15.56.08:899][494]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.548ms to complete.
+[2020.02.02-15.56.08:899][494]LogFileHelpers: Loading map 'Map_1st' took 0.225
+[2020.02.02-15.56.11:826][814]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-15.56.24:696][335]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-15.56.24:748][335]LogSlate: Took 0.003449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-15.56.33:088][335]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.02-15.56.33:107][335]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-15.56.33:232][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.02.02-15.56.33:518][335]LogAIModule: Creating AISystem for world Jessica_Lights_1920s
+[2020.02.02-15.56.33:667][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.02.02-15.56.35:933][335]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Jessica_Lights_1920s8F117E394B816F86F47E35BE60C2C841.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/Jessica_Lights_1920s.umap'
+[2020.02.02-15.56.35:995][335]LogFileHelpers: Saving map 'Jessica_Lights_1920s' took 2.897
+[2020.02.02-15.56.35:997][335]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/Jessica_Lights_1920s.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-15.56.36:003][335]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-15.56.36:009][335]LightingResults: New page: Lighting Build
+[2020.02.02-15.56.36:009][335]LoadErrors: New page: Loading map: Jessica_Lights_1920s.umap
+[2020.02.02-15.56.36:011][335]LogWorld: UWorld::CleanupWorld for Map_1st, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-15.56.36:015][335]MapCheck: New page: Map Check
+[2020.02.02-15.56.36:015][335]LightingResults: New page: Lighting Build
+[2020.02.02-15.56.36:090][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.02.02-15.56.36:107][335]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-15.56.36:181][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.02.02-15.56.36:247][335]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-15.56.36:248][335]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.837ms to complete.
+[2020.02.02-15.56.36:248][335]LogFileHelpers: Loading map 'Jessica_Lights_1920s' took 0.253
