@@ -2125,3 +2125,1055 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-03.35.16:635][295]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BlockOutBetterC2D719984E8BA8F49A7F35964B2D4B3F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/BlockOutBetter.umap'
 [2020.02.02-03.35.17:325][295]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BlockOutBetter_BuiltDataA378202A44F11697135051ABD720C9C0.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/BlockOutBetter_BuiltData.uasset'
 [2020.02.02-03.35.19:093][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.02.02-03.47.00:337][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.47.00:991][ 40]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.47.01:004][ 40]LogAssetEditorManager: Opening Asset editor for World /Game/Custom/Maps/MAP_3rd.MAP_3rd
+[2020.02.02-03.47.01:083][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.02.02-03.47.01:085][ 40]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-03.47.01:085][ 40]LightingResults: New page: Lighting Build
+[2020.02.02-03.47.01:085][ 40]LoadErrors: New page: Loading map: MAP_3rd.umap
+[2020.02.02-03.47.01:089][ 40]LogWorld: UWorld::CleanupWorld for BlockOutBetter, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.47.01:089][ 40]MapCheck: New page: Map Check
+[2020.02.02-03.47.01:089][ 40]LightingResults: New page: Lighting Build
+[2020.02.02-03.47.01:167][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.02.02-03.47.01:358][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.02.02-03.47.01:432][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.02.02-03.47.01:460][ 40]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-03.47.01:549][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.02.02-03.47.02:069][ 40]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-03.47.02:072][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.103ms to complete.
+[2020.02.02-03.47.02:072][ 40]LogFileHelpers: Loading map 'MAP_3rd' took 0.989
+[2020.02.02-03.47.12:267][816]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_TOPWALL_DM16)
+[2020.02.02-03.47.22:447][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL38)
+[2020.02.02-03.47.23:664][480]Cmd: TRANSACTION UNDO
+[2020.02.02-03.47.23:664][480]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-03.48.03:877][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.48.04:015][118]LogActorFactory: Actor Factory created Cube
+[2020.02.02-03.48.04:753][173]LogActorFactory: Actor Factory created Cube
+[2020.02.02-03.48.12:349][753]Cmd: TRANSACTION UNDO
+[2020.02.02-03.48.12:349][753]LogEditorTransaction: Undo Scale Actors
+[2020.02.02-03.48.12:692][771]Cmd: TRANSACTION UNDO
+[2020.02.02-03.48.12:692][771]LogEditorTransaction: Undo Create Actors
+[2020.02.02-03.48.14:367][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.48.14:544][891]LogActorFactory: Actor Factory created Cube
+[2020.02.02-03.48.17:736][100]LogActorFactory: Actor Factory created Cube
+[2020.02.02-03.48.19:393][210]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-03.50.32:850][902]Cmd: EDIT COPY
+[2020.02.02-03.50.33:305][922]Cmd: EDIT PASTE
+[2020.02.02-03.50.40:846][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.02-03.50.42:096][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.02-03.50.49:213][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.02-03.51.07:562][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.51.07:614][370]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.51.07:667][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.07:667][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.51.07:667][370]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 5:51:07 PM)
+[2020.02.02-03.51.07:667][370]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.51.07:679][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011987s)
+[2020.02.02-03.51.07:681][370]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.51.07:681][370]LogPlayLevel: PIE: World Init took: (0.001744s)
+[2020.02.02-03.51.07:681][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.013873s)
+[2020.02.02-03.51.07:768][370]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.02.02-03.51.07:788][370]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.51.07:810][370]LogInit: FAudioDevice initialized.
+[2020.02.02-03.51.07:820][370]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-03.51.07:835][370]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-22.51.07
+[2020.02.02-03.51.07:836][370]LogWorld: Bringing up level for play took: 0.014673
+[2020.02.02-03.51.07:836][370]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.02.02-03.51.07:840][370]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd 0.985
+[2020.02.02-03.51.07:840][370]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.19:288][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.19:289][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.51.19:289][260]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.51.19:289][260]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.51.19:322][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.51.19:322][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.19:408][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.51.19:415][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.02.02-03.51.19:453][261]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.02-03.51.20:276][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.51.20:338][339]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.51.20:383][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.20:383][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.51.20:383][339]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 5:51:20 PM)
+[2020.02.02-03.51.20:383][339]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.51.20:397][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014180s)
+[2020.02.02-03.51.20:399][339]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.51.20:399][339]LogPlayLevel: PIE: World Init took: (0.001847s)
+[2020.02.02-03.51.20:399][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.016201s)
+[2020.02.02-03.51.20:470][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.02.02-03.51.20:489][339]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.51.20:509][339]LogInit: FAudioDevice initialized.
+[2020.02.02-03.51.20:523][339]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-03.51.20:539][339]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-22.51.20
+[2020.02.02-03.51.20:539][339]LogWorld: Bringing up level for play took: 0.015269
+[2020.02.02-03.51.20:539][339]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.02.02-03.51.20:544][339]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd -0.311
+[2020.02.02-03.51.20:544][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.46:963][227]LogNet: Browse: /Game/Custom/Maps/MAP_3rd
+[2020.02.02-03.51.46:963][227]LogLoad: LoadMap: /Game/Custom/Maps/MAP_3rd
+[2020.02.02-03.51.46:963][227]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.51.46:965][227]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.51.47:046][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.02.02-03.51.47:047][227]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.51.47:058][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011551s)
+[2020.02.02-03.51.47:060][227]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.51.47:060][227]LogPlayLevel: PIE: World Init took: (0.001695s)
+[2020.02.02-03.51.47:060][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.013456s)
+[2020.02.02-03.51.47:060][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-03.51.47:076][227]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-22.51.47
+[2020.02.02-03.51.47:077][227]LogWorld: Bringing up level for play took: 0.015296
+[2020.02.02-03.51.47:079][227]LogLoad: Took 0.115810 seconds to LoadMap(/Game/Custom/Maps/UEDPIE_0_MAP_3rd)
+[2020.02.02-03.51.50:423][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.50:424][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.51.50:424][494]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.51.50:424][494]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.51.50:451][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.51.50:451][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.50:534][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.51.50:541][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.02-03.51.50:577][495]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.02-03.51.55:134][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-03.51.56:522][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.51.56:616][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.51.56:679][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.51.56:679][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.51.56:679][ 87]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 5:51:56 PM)
+[2020.02.02-03.51.56:679][ 87]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.51.56:691][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011305s)
+[2020.02.02-03.51.56:692][ 87]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.51.56:692][ 87]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2020.02.02-03.51.56:693][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.013095s)
+[2020.02.02-03.51.56:766][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.02-03.51.56:784][ 87]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.51.56:803][ 87]LogInit: FAudioDevice initialized.
+[2020.02.02-03.51.56:814][ 87]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-03.51.56:829][ 87]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-22.51.56
+[2020.02.02-03.51.56:829][ 87]LogWorld: Bringing up level for play took: 0.014733
+[2020.02.02-03.51.56:829][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.02.02-03.51.56:833][ 87]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd -0.022
+[2020.02.02-03.51.56:833][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.52.09:470][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.52.09:471][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.52.09:471][433]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.52.09:471][433]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.52.09:497][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.52.09:497][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.52.09:576][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.52.09:584][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.02.02-03.52.09:619][434]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.02-03.53.01:503][215]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM6)
+[2020.02.02-03.53.07:367][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.53.16:644][118]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM)
+[2020.02.02-03.53.20:044][372]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM7)
+[2020.02.02-03.53.21:035][443]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM9)
+[2020.02.02-03.53.21:878][502]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM15)
+[2020.02.02-03.53.25:111][727]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM20)
+[2020.02.02-03.53.26:454][820]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM23)
+[2020.02.02-03.53.28:470][945]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM28)
+[2020.02.02-03.53.30:778][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_BOTTOM_WALL19)
+[2020.02.02-03.53.32:007][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL38)
+[2020.02.02-03.53.41:942][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.53.46:396][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL)
+[2020.02.02-03.53.47:747][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.53.49:470][263]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des2)
+[2020.02.02-03.53.53:311][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.53.58:561][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.53.59:254][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL)
+[2020.02.02-03.54.00:052][ 85]Cmd: DELETE
+[2020.02.02-03.54.00:052][ 85]Cmd: ACTOR DELETE
+[2020.02.02-03.54.00:056][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-03.54.00:135][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.02.02-03.54.00:136][ 85]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.02.02-03.54.05:475][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.54.09:005][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL2)
+[2020.02.02-03.54.10:551][165]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des2)
+[2020.02.02-03.54.11:573][254]Cmd: EDIT COPY
+[2020.02.02-03.54.11:814][275]Cmd: EDIT PASTE
+[2020.02.02-03.54.13:537][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL2)
+[2020.02.02-03.54.14:971][546]Cmd: DELETE
+[2020.02.02-03.54.14:971][546]Cmd: ACTOR DELETE
+[2020.02.02-03.54.14:974][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-03.54.15:057][546]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.02.02-03.54.15:057][546]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2020.02.02-03.54.15:637][608]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des3)
+[2020.02.02-03.54.20:434][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-03.54.20:834][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL3)
+[2020.02.02-03.54.21:916][112]Cmd: DELETE
+[2020.02.02-03.54.21:916][112]Cmd: ACTOR DELETE
+[2020.02.02-03.54.21:920][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-03.54.21:998][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.02-03.54.21:999][112]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2020.02.02-03.54.22:672][177]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des3)
+[2020.02.02-03.54.23:745][259]Cmd: EDIT PASTE
+[2020.02.02-03.54.31:649][838]Cmd: EDIT COPY
+[2020.02.02-03.54.31:891][855]Cmd: EDIT PASTE
+[2020.02.02-03.54.36:713][165]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-03.54.37:230][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL4)
+[2020.02.02-03.54.38:382][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.54.40:414][395]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des5)
+[2020.02.02-03.54.42:698][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.54.44:283][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL4)
+[2020.02.02-03.54.45:132][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.54.46:937][760]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des5)
+[2020.02.02-03.54.47:968][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.54.50:587][996]Cmd: TRANSACTION UNDO
+[2020.02.02-03.54.50:587][996]LogEditorTransaction: Undo Paste Location
+[2020.02.02-03.54.51:480][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL4)
+[2020.02.02-03.54.52:206][101]Cmd: DELETE
+[2020.02.02-03.54.52:206][101]Cmd: ACTOR DELETE
+[2020.02.02-03.54.52:210][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-03.54.52:284][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.02.02-03.54.52:285][101]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.02.02-03.54.52:953][155]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des5)
+[2020.02.02-03.54.53:941][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.54.57:893][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL5)
+[2020.02.02-03.55.00:288][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.02-03.55.00:771][659]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des5)
+[2020.02.02-03.55.01:470][710]Cmd: EDIT COPY
+[2020.02.02-03.55.01:704][729]Cmd: EDIT PASTE
+[2020.02.02-03.55.24:486][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL5)
+[2020.02.02-03.55.52:424][842]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des6)
+[2020.02.02-03.55.53:677][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.55.55:417][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL5)
+[2020.02.02-03.55.56:606][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.55.58:718][280]Cmd: TRANSACTION UNDO
+[2020.02.02-03.55.58:718][280]LogEditorTransaction: Undo Paste Location
+[2020.02.02-03.55.59:607][343]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des6)
+[2020.02.02-03.56.01:199][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.02:588][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL5)
+[2020.02.02-03.56.03:712][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.06:571][816]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des6)
+[2020.02.02-03.56.07:411][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL5)
+[2020.02.02-03.56.08:371][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.11:779][126]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des6)
+[2020.02.02-03.56.12:706][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.14:203][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL5)
+[2020.02.02-03.56.15:205][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.16:655][441]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des6)
+[2020.02.02-03.56.18:113][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL5)
+[2020.02.02-03.56.18:359][562]Cmd: DELETE
+[2020.02.02-03.56.18:359][562]Cmd: ACTOR DELETE
+[2020.02.02-03.56.18:363][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-03.56.18:441][562]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.02.02-03.56.18:442][562]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.02.02-03.56.18:927][607]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des6)
+[2020.02.02-03.56.19:938][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.24:995][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-03.56.25:691][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL6)
+[2020.02.02-03.56.27:959][202]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des6)
+[2020.02.02-03.56.28:637][242]Cmd: EDIT COPY
+[2020.02.02-03.56.28:881][257]Cmd: EDIT PASTE
+[2020.02.02-03.56.32:478][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL6)
+[2020.02.02-03.56.33:616][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.36:102][713]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des7)
+[2020.02.02-03.56.37:196][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.39:527][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL6)
+[2020.02.02-03.56.40:795][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.42:242][ 60]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM10)
+[2020.02.02-03.56.43:219][121]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des7)
+[2020.02.02-03.56.44:492][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.46:554][314]Cmd: TRANSACTION UNDO
+[2020.02.02-03.56.46:555][314]LogEditorTransaction: Undo Paste Location
+[2020.02.02-03.56.47:160][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL6)
+[2020.02.02-03.56.48:056][400]Cmd: DELETE
+[2020.02.02-03.56.48:056][400]Cmd: ACTOR DELETE
+[2020.02.02-03.56.48:059][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-03.56.48:138][400]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.02.02-03.56.48:138][400]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.02.02-03.56.48:638][437]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des7)
+[2020.02.02-03.56.49:752][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.56.53:066][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL7)
+[2020.02.02-03.56.57:554][959]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des7)
+[2020.02.02-03.56.58:138][990]Cmd: EDIT COPY
+[2020.02.02-03.56.58:360][  5]Cmd: EDIT PASTE
+[2020.02.02-03.57.00:843][159]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-03.57.02:563][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL7)
+[2020.02.02-03.57.03:555][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.05:715][439]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des8)
+[2020.02.02-03.57.06:825][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.08:352][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL7)
+[2020.02.02-03.57.09:108][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.10:743][706]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des8)
+[2020.02.02-03.57.12:070][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_TOPWALL7)
+[2020.02.02-03.57.12:754][814]Cmd: DELETE
+[2020.02.02-03.57.12:754][814]Cmd: ACTOR DELETE
+[2020.02.02-03.57.12:758][814]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-03.57.12:835][814]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.02.02-03.57.12:836][814]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2020.02.02-03.57.13:612][869]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des8)
+[2020.02.02-03.57.14:714][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.17:732][104]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_TOPWALL_DM16)
+[2020.02.02-03.57.23:738][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.02-03.57.26:317][498]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des8)
+[2020.02.02-03.57.26:948][520]Cmd: EDIT COPY
+[2020.02.02-03.57.28:142][586]Cmd: EDIT PASTE
+[2020.02.02-03.57.29:608][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL38)
+[2020.02.02-03.57.30:360][692]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_TOPWALL_DM16)
+[2020.02.02-03.57.31:797][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.34:007][869]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM12)
+[2020.02.02-03.57.36:429][998]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des9)
+[2020.02.02-03.57.37:933][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.40:283][185]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_TOPWALL_DM16)
+[2020.02.02-03.57.41:364][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.43:746][356]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des9)
+[2020.02.02-03.57.44:819][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.57.46:656][489]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_TOPWALL_DM16)
+[2020.02.02-03.57.47:407][525]Cmd: DELETE
+[2020.02.02-03.57.47:407][525]Cmd: ACTOR DELETE
+[2020.02.02-03.57.47:411][525]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-03.57.47:486][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.02-03.57.47:486][525]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.02.02-03.57.48:132][565]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des9)
+[2020.02.02-03.57.49:083][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.58.06:122][820]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM)
+[2020.02.02-03.58.11:332][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.58.16:474][602]LogEditorViewport: Clicking on Actor (context menu): DestructibleActor (OBJ_MIDDLE_WALL_DM)
+[2020.02.02-03.58.16:559][602]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-03.58.17:489][676]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des3)
+[2020.02.02-03.58.20:709][929]Cmd: EDIT COPY
+[2020.02.02-03.58.20:944][940]Cmd: EDIT PASTE
+[2020.02.02-03.58.23:511][134]Cmd: TRANSACTION UNDO
+[2020.02.02-03.58.23:511][134]LogEditorTransaction: Undo Move Actors
+[2020.02.02-03.58.23:867][155]Cmd: TRANSACTION UNDO
+[2020.02.02-03.58.23:867][155]LogEditorTransaction: Undo Paste
+[2020.02.02-03.58.25:757][290]Cmd: TRANSACTION UNDO
+[2020.02.02-03.58.25:757][290]LogEditorTransaction: Undo Move Actors
+[2020.02.02-03.58.27:310][407]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM3)
+[2020.02.02-03.58.29:927][608]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des3)
+[2020.02.02-03.58.37:617][141]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM)
+[2020.02.02-03.58.38:114][172]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM3)
+[2020.02.02-03.58.41:250][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.58.45:704][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-03.58.46:214][723]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des3)
+[2020.02.02-03.58.46:648][749]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM3)
+[2020.02.02-03.58.47:354][797]Cmd: DELETE
+[2020.02.02-03.58.47:354][797]Cmd: ACTOR DELETE
+[2020.02.02-03.58.47:359][797]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-03.58.47:435][797]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.02.02-03.58.47:436][797]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.02.02-03.58.47:840][833]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des3)
+[2020.02.02-03.59.02:016][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.59.38:362][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.59.38:422][672]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.59.38:463][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.38:463][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.59.38:464][672]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 5:59:38 PM)
+[2020.02.02-03.59.38:464][672]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.59.38:479][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014815s)
+[2020.02.02-03.59.38:481][672]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.59.38:481][672]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2020.02.02-03.59.38:481][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.017152s)
+[2020.02.02-03.59.38:556][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.02.02-03.59.38:576][672]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.59.38:597][672]LogInit: FAudioDevice initialized.
+[2020.02.02-03.59.38:609][672]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-03.59.38:628][672]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-22.59.38
+[2020.02.02-03.59.38:629][672]LogWorld: Bringing up level for play took: 0.018626
+[2020.02.02-03.59.38:629][672]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.02.02-03.59.38:634][672]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd -0.225
+[2020.02.02-03.59.38:634][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.49:100][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.49:101][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.59.49:101][651]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.59.49:101][651]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.59.49:140][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.59.49:140][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.49:222][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.59.49:228][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.02.02-03.59.49:265][652]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.02.02-03.59.51:046][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.59.51:605][824]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.59.51:646][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.51:646][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.59.51:646][824]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 5:59:51 PM)
+[2020.02.02-03.59.51:646][824]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.59.51:659][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013146s)
+[2020.02.02-03.59.51:661][824]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.59.51:661][824]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2020.02.02-03.59.51:661][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.015124s)
+[2020.02.02-03.59.51:733][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.02-03.59.51:751][824]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.59.51:768][824]LogInit: FAudioDevice initialized.
+[2020.02.02-03.59.51:777][824]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-03.59.51:794][824]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-22.59.51
+[2020.02.02-03.59.51:794][824]LogWorld: Bringing up level for play took: 0.016142
+[2020.02.02-03.59.51:794][824]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.02.02-03.59.51:798][824]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd 0.939
+[2020.02.02-03.59.51:798][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.52:471][872]LogNet: Browse: /Game/Custom/Maps/MAP_3rd
+[2020.02.02-03.59.52:472][872]LogLoad: LoadMap: /Game/Custom/Maps/MAP_3rd
+[2020.02.02-03.59.52:472][872]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.59.52:472][872]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.59.52:558][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.02.02-03.59.52:558][872]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.59.52:571][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012506s)
+[2020.02.02-03.59.52:572][872]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-03.59.52:572][872]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2020.02.02-03.59.52:572][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.013999s)
+[2020.02.02-03.59.52:572][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-03.59.52:589][872]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-22.59.52
+[2020.02.02-03.59.52:590][872]LogWorld: Bringing up level for play took: 0.016904
+[2020.02.02-03.59.52:593][872]LogLoad: Took 0.120896 seconds to LoadMap(/Game/Custom/Maps/UEDPIE_0_MAP_3rd)
+[2020.02.02-03.59.52:897][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.52:897][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.59.52:898][894]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-03.59.52:898][894]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-03.59.52:926][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.59.52:926][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-03.59.53:005][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.59.53:013][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.02.02-03.59.53:048][895]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.02.02-04.00.02:920][615]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-04.00.03:060][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.02-04.00.06:665][615]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_Auto6E3BEFB0B45A50D3DEB16BB9B4CF6DD07.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/MAP_3rd_Auto6.umap'
+[2020.02.02-04.00.06:773][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/MAP_3rd' took 3.783
+[2020.02.02-04.00.06:773][615]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.783
+[2020.02.02-04.00.26:239][464]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des3)
+[2020.02.02-04.00.26:754][497]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM)
+[2020.02.02-04.00.40:704][656]Cmd: DELETE
+[2020.02.02-04.00.40:704][656]Cmd: ACTOR DELETE
+[2020.02.02-04.00.40:708][656]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.40:787][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.02.02-04.00.40:787][656]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.02.02-04.00.41:273][701]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM2)
+[2020.02.02-04.00.41:416][706]Cmd: DELETE
+[2020.02.02-04.00.41:416][706]Cmd: ACTOR DELETE
+[2020.02.02-04.00.41:421][706]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.41:490][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.02.02-04.00.41:491][706]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.02.02-04.00.41:713][726]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM4)
+[2020.02.02-04.00.41:975][742]Cmd: DELETE
+[2020.02.02-04.00.41:975][742]Cmd: ACTOR DELETE
+[2020.02.02-04.00.41:979][742]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.42:054][742]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.02.02-04.00.42:055][742]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2020.02.02-04.00.42:385][775]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM7)
+[2020.02.02-04.00.42:531][781]Cmd: DELETE
+[2020.02.02-04.00.42:531][781]Cmd: ACTOR DELETE
+[2020.02.02-04.00.42:535][781]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.42:609][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.02-04.00.42:609][781]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.02.02-04.00.42:787][798]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM5)
+[2020.02.02-04.00.42:971][808]Cmd: DELETE
+[2020.02.02-04.00.42:971][808]Cmd: ACTOR DELETE
+[2020.02.02-04.00.42:974][808]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.43:047][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.02.02-04.00.43:047][808]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2020.02.02-04.00.43:419][846]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM6)
+[2020.02.02-04.00.43:528][849]Cmd: DELETE
+[2020.02.02-04.00.43:528][849]Cmd: ACTOR DELETE
+[2020.02.02-04.00.43:532][849]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.43:605][849]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.02.02-04.00.43:606][849]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.02.02-04.00.43:969][886]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM8)
+[2020.02.02-04.00.44:090][890]Cmd: DELETE
+[2020.02.02-04.00.44:090][890]Cmd: ACTOR DELETE
+[2020.02.02-04.00.44:094][890]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.44:171][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.02-04.00.44:172][890]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.02.02-04.00.44:454][920]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM11)
+[2020.02.02-04.00.44:695][935]Cmd: DELETE
+[2020.02.02-04.00.44:695][935]Cmd: ACTOR DELETE
+[2020.02.02-04.00.44:699][935]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.00.44:773][935]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.02.02-04.00.44:773][935]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.02.02-04.00.55:852][137]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-04.00.56:411][182]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des3)
+[2020.02.02-04.00.57:181][247]Cmd: EDIT COPY
+[2020.02.02-04.00.57:450][271]Cmd: EDIT PASTE
+[2020.02.02-04.01.03:967][922]Cmd: EDIT PASTE
+[2020.02.02-04.01.09:689][452]Cmd: EDIT PASTE
+[2020.02.02-04.01.18:433][290]Cmd: EDIT PASTE
+[2020.02.02-04.01.25:472][893]Cmd: EDIT PASTE
+[2020.02.02-04.01.34:043][626]Cmd: EDIT PASTE
+[2020.02.02-04.01.40:225][197]Cmd: EDIT PASTE
+[2020.02.02-04.01.47:302][744]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM9)
+[2020.02.02-04.01.49:343][902]Cmd: DELETE
+[2020.02.02-04.01.49:343][902]Cmd: ACTOR DELETE
+[2020.02.02-04.01.49:348][902]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.01.49:349][902]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.01.49:350][902]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.01.49:433][902]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.02.02-04.01.49:433][902]LogEditorActor: Deleted 3 Actors (0.090 secs)
+[2020.02.02-04.01.50:329][998]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des10)
+[2020.02.02-04.01.53:003][236]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-04.01.53:085][236]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-04.01.53:674][280]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des10)
+[2020.02.02-04.01.55:484][436]Cmd: EDIT COPY
+[2020.02.02-04.01.55:731][456]Cmd: EDIT PASTE
+[2020.02.02-04.01.58:651][708]Cmd: EDIT PASTE
+[2020.02.02-04.02.01:727][970]Cmd: EDIT PASTE
+[2020.02.02-04.04.12:068][384]Cmd: EDIT PASTE
+[2020.02.02-04.04.33:165][997]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM15)
+[2020.02.02-04.04.34:789][113]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des14)
+[2020.02.02-04.06.06:736][ 91]Cmd: TRANSACTION UNDO
+[2020.02.02-04.06.06:736][ 91]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.06.07:539][140]Cmd: EDIT COPY
+[2020.02.02-04.06.07:734][153]Cmd: EDIT PASTE
+[2020.02.02-04.06.13:395][543]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM15)
+[2020.02.02-04.06.15:302][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.06.17:040][778]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des15)
+[2020.02.02-04.06.17:926][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.06.21:871][110]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM15)
+[2020.02.02-04.06.23:400][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.06.25:710][379]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des15)
+[2020.02.02-04.06.27:848][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.06.30:285][684]Cmd: TRANSACTION UNDO
+[2020.02.02-04.06.30:285][684]LogEditorTransaction: Undo Paste Location
+[2020.02.02-04.06.31:160][744]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM15)
+[2020.02.02-04.06.31:835][789]Cmd: DELETE
+[2020.02.02-04.06.31:835][789]Cmd: ACTOR DELETE
+[2020.02.02-04.06.31:840][789]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.06.31:919][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.02.02-04.06.31:919][789]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2020.02.02-04.06.33:671][942]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des15)
+[2020.02.02-04.06.34:745][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.06.38:220][294]LogEditorViewport: Clicking on Actor (context menu): DestructibleActor (OBJ_MIDDLE_WALL_DM13)
+[2020.02.02-04.06.38:305][294]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-04.06.39:016][353]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des15)
+[2020.02.02-04.06.39:596][404]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM13)
+[2020.02.02-04.06.41:539][579]Cmd: DELETE
+[2020.02.02-04.06.41:539][579]Cmd: ACTOR DELETE
+[2020.02.02-04.06.41:543][579]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.06.41:544][579]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.06.41:545][579]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.06.41:618][579]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.02.02-04.06.41:619][579]LogEditorActor: Deleted 3 Actors (0.080 secs)
+[2020.02.02-04.06.43:047][748]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des15)
+[2020.02.02-04.06.49:847][464]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des15)
+[2020.02.02-04.06.50:236][500]Cmd: EDIT COPY
+[2020.02.02-04.06.50:668][542]Cmd: EDIT PASTE
+[2020.02.02-04.06.55:491][ 35]Cmd: EDIT COPY
+[2020.02.02-04.06.59:903][503]Cmd: EDIT PASTE
+[2020.02.02-04.07.03:892][901]Cmd: EDIT PASTE
+[2020.02.02-04.07.11:025][529]Cmd: EDIT COPY
+[2020.02.02-04.07.11:412][549]Cmd: EDIT PASTE
+[2020.02.02-04.07.16:526][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.07.18:282][962]LogEditorViewport: Clicking on Actor (context menu): BP_MiddleWall_Des_C (BP_MiddleWall_Des19)
+[2020.02.02-04.07.18:343][962]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-04.07.19:905][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des19)
+[2020.02.02-04.07.20:269][ 91]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM19)
+[2020.02.02-04.07.21:591][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.07.23:230][278]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des19)
+[2020.02.02-04.07.24:115][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.07.27:144][526]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM19)
+[2020.02.02-04.07.28:376][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.07.30:702][764]Cmd: DELETE
+[2020.02.02-04.07.30:702][764]Cmd: ACTOR DELETE
+[2020.02.02-04.07.30:707][764]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.07.30:779][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.02.02-04.07.30:780][764]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.02.02-04.07.31:258][807]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des19)
+[2020.02.02-04.07.32:606][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.08.04:097][561]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM17)
+[2020.02.02-04.08.05:121][647]Cmd: DELETE
+[2020.02.02-04.08.05:121][647]Cmd: ACTOR DELETE
+[2020.02.02-04.08.05:125][647]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.08.05:201][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.02.02-04.08.05:201][647]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.02.02-04.08.06:008][736]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM18)
+[2020.02.02-04.08.06:621][787]Cmd: TRANSACTION UNDO
+[2020.02.02-04.08.06:621][787]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.08.07:108][823]Cmd: TRANSACTION UNDO
+[2020.02.02-04.08.07:108][823]LogEditorTransaction: Undo Delete Actors
+[2020.02.02-04.08.10:369][ 64]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM18)
+[2020.02.02-04.08.11:258][141]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM20)
+[2020.02.02-04.08.13:273][312]Cmd: DELETE
+[2020.02.02-04.08.13:273][312]Cmd: ACTOR DELETE
+[2020.02.02-04.08.13:278][312]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.08.13:279][312]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.08.13:280][312]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.08.13:351][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.02.02-04.08.13:351][312]LogEditorActor: Deleted 3 Actors (0.078 secs)
+[2020.02.02-04.08.14:187][410]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des19)
+[2020.02.02-04.08.14:709][454]Cmd: EDIT COPY
+[2020.02.02-04.08.14:954][474]Cmd: EDIT PASTE
+[2020.02.02-04.08.23:984][327]Cmd: EDIT PASTE
+[2020.02.02-04.08.31:885][101]Cmd: EDIT PASTE
+[2020.02.02-04.08.41:301][948]Cmd: EDIT COPY
+[2020.02.02-04.08.41:641][973]Cmd: EDIT PASTE
+[2020.02.02-04.08.43:469][101]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM23)
+[2020.02.02-04.08.44:414][168]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-04.08.45:777][264]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des23)
+[2020.02.02-04.08.46:833][336]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM23)
+[2020.02.02-04.08.48:600][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.08.50:478][573]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des23)
+[2020.02.02-04.08.51:459][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.08.54:056][800]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM23)
+[2020.02.02-04.08.55:028][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.08.57:034][986]Cmd: DELETE
+[2020.02.02-04.08.57:034][986]Cmd: ACTOR DELETE
+[2020.02.02-04.08.57:039][986]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.08.57:126][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.02.02-04.08.57:127][986]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2020.02.02-04.08.57:620][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des23)
+[2020.02.02-04.08.58:823][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.09.02:389][347]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM21)
+[2020.02.02-04.09.04:479][497]Cmd: DELETE
+[2020.02.02-04.09.04:480][497]Cmd: ACTOR DELETE
+[2020.02.02-04.09.04:484][497]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.09.04:485][497]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.09.04:486][497]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.09.04:560][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.02.02-04.09.04:561][497]LogEditorActor: Deleted 3 Actors (0.081 secs)
+[2020.02.02-04.09.05:326][578]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des23)
+[2020.02.02-04.09.05:881][621]Cmd: EDIT COPY
+[2020.02.02-04.09.06:154][643]Cmd: EDIT PASTE
+[2020.02.02-04.09.09:073][888]Cmd: EDIT PASTE
+[2020.02.02-04.09.13:366][252]Cmd: EDIT PASTE
+[2020.02.02-04.09.21:121][839]Cmd: TRANSACTION UNDO
+[2020.02.02-04.09.21:121][839]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.09.21:791][885]Cmd: EDIT PASTE
+[2020.02.02-04.10.06:927][648]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-04.10.07:034][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.02.02-04.10.11:654][648]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_Auto75D3EFF864C11FBAAF34B72B248A9E241.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/MAP_3rd_Auto7.umap'
+[2020.02.02-04.10.11:753][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/MAP_3rd' took 4.804
+[2020.02.02-04.10.11:753][648]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.804
+[2020.02.02-04.11.09:681][666]LogEditorViewport: Clicking on Actor (LMB): BP_TopWall_Des_C (BP_TopWall_Des8)
+[2020.02.02-04.11.13:927][ 64]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM27)
+[2020.02.02-04.11.15:494][216]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.11.16:577][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.11.18:475][475]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM27)
+[2020.02.02-04.11.20:057][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.12.39:790][253]Cmd: TRANSACTION UNDO
+[2020.02.02-04.12.39:790][253]LogEditorTransaction: Undo Paste Rotation
+[2020.02.02-04.12.42:066][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.12.43:985][619]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.12.45:756][791]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM27)
+[2020.02.02-04.12.46:830][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.12.48:075][983]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.12.48:907][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.12.51:748][313]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM27)
+[2020.02.02-04.12.52:519][383]Cmd: DELETE
+[2020.02.02-04.12.52:519][383]Cmd: ACTOR DELETE
+[2020.02.02-04.12.52:524][383]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.12.52:600][383]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.02.02-04.12.52:601][383]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.02.02-04.12.53:832][528]Cmd: TRANSACTION UNDO
+[2020.02.02-04.12.53:832][528]LogEditorTransaction: Undo Delete Actors
+[2020.02.02-04.12.55:569][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.12.57:680][831]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.12.58:251][883]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM27)
+[2020.02.02-04.12.59:022][959]Cmd: DELETE
+[2020.02.02-04.12.59:022][959]Cmd: ACTOR DELETE
+[2020.02.02-04.12.59:026][959]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.12.59:104][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.02.02-04.12.59:105][959]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.02.02-04.12.59:539][  9]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.13.01:082][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.13.04:309][460]Cmd: TRANSACTION UNDO
+[2020.02.02-04.13.04:309][460]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.13.05:622][601]Cmd: TRANSACTION UNDO
+[2020.02.02-04.13.05:622][601]LogEditorTransaction: Undo Delete Actors
+[2020.02.02-04.13.08:836][889]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.13.10:462][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.13.11:577][ 93]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM27)
+[2020.02.02-04.13.12:316][162]Cmd: DELETE
+[2020.02.02-04.13.12:316][162]Cmd: ACTOR DELETE
+[2020.02.02-04.13.12:320][162]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.13.12:395][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.02.02-04.13.12:395][162]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.02.02-04.13.12:806][209]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.13.13:942][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.13.20:326][891]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM26)
+[2020.02.02-04.13.20:954][952]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_MIDDLE_WALL_DM25)
+[2020.02.02-04.13.22:959][143]Cmd: DELETE
+[2020.02.02-04.13.22:959][143]Cmd: ACTOR DELETE
+[2020.02.02-04.13.22:964][143]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.13.22:965][143]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.13.22:965][143]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.13.23:040][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.02-04.13.23:040][143]LogEditorActor: Deleted 3 Actors (0.081 secs)
+[2020.02.02-04.13.24:334][296]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des27)
+[2020.02.02-04.13.25:024][364]Cmd: EDIT COPY
+[2020.02.02-04.13.25:239][386]Cmd: EDIT PASTE
+[2020.02.02-04.13.30:849][977]Cmd: EDIT PASTE
+[2020.02.02-04.13.34:529][359]Cmd: EDIT PASTE
+[2020.02.02-04.13.54:075][893]Cmd: EDIT COPY
+[2020.02.02-04.13.54:480][926]Cmd: EDIT PASTE
+[2020.02.02-04.14.27:868][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.14.29:080][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL39)
+[2020.02.02-04.14.30:174][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.14.32:343][374]Cmd: TRANSACTION UNDO
+[2020.02.02-04.14.32:343][374]LogEditorTransaction: Undo Paste Location
+[2020.02.02-04.14.32:850][400]Cmd: TRANSACTION UNDO
+[2020.02.02-04.14.32:850][400]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.14.34:810][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL39)
+[2020.02.02-04.14.35:619][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.14.39:399][773]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.14.40:425][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.14.42:400][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL39)
+[2020.02.02-04.14.43:074][972]Cmd: DELETE
+[2020.02.02-04.14.43:074][972]Cmd: ACTOR DELETE
+[2020.02.02-04.14.43:079][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.14.43:156][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.02-04.14.43:156][972]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2020.02.02-04.14.44:008][ 35]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.14.45:153][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.14.49:691][347]Cmd: TRANSACTION UNDO
+[2020.02.02-04.14.49:691][347]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.14.51:293][456]Cmd: TRANSACTION UNDO
+[2020.02.02-04.14.51:293][456]LogEditorTransaction: Undo Delete Actors
+[2020.02.02-04.14.51:708][475]Cmd: TRANSACTION UNDO
+[2020.02.02-04.14.51:708][475]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.14.52:159][500]Cmd: TRANSACTION UNDO
+[2020.02.02-04.14.52:159][500]LogEditorTransaction: Undo Paste Rotation
+[2020.02.02-04.14.56:330][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_BOTTOM_WALL19)
+[2020.02.02-04.14.57:500][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL39)
+[2020.02.02-04.14.58:819][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.15.00:100][946]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2020.02.02-04.15.00:667][977]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.15.01:536][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.15.03:469][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL39)
+[2020.02.02-04.15.04:705][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.15.06:395][287]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.15.08:337][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL39)
+[2020.02.02-04.15.08:940][423]Cmd: DELETE
+[2020.02.02-04.15.08:940][423]Cmd: ACTOR DELETE
+[2020.02.02-04.15.08:945][423]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.15.09:016][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.02.02-04.15.09:017][423]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.02.02-04.15.09:510][459]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.15.10:430][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.15.17:978][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL40)
+[2020.02.02-04.15.20:140][205]Cmd: DELETE
+[2020.02.02-04.15.20:140][205]Cmd: ACTOR DELETE
+[2020.02.02-04.15.20:145][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.15.20:146][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.15.20:147][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.15.20:222][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.02-04.15.20:223][205]LogEditorActor: Deleted 3 Actors (0.082 secs)
+[2020.02.02-04.15.21:114][310]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.15.21:931][387]Cmd: EDIT COPY
+[2020.02.02-04.15.24:385][639]Cmd: TRANSACTION UNDO
+[2020.02.02-04.15.24:385][639]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.15.25:150][701]Cmd: EDIT PASTE
+[2020.02.02-04.15.27:575][931]Cmd: TRANSACTION UNDO
+[2020.02.02-04.15.27:576][931]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.15.32:401][405]Cmd: TRANSACTION UNDO
+[2020.02.02-04.15.32:401][405]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.15.40:941][240]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.15.42:395][392]Cmd: EDIT PASTE
+[2020.02.02-04.15.49:707][160]Cmd: EDIT PASTE
+[2020.02.02-04.16.02:092][ 86]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.02:092][ 86]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.02:405][102]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.02:405][102]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.02:632][114]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.02:632][114]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.02:862][128]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.02:863][128]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.03:101][143]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.03:101][143]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.03:308][156]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.03:308][156]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.14:799][920]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.14:800][920]LogEditorTransaction: Undo Paste
+[2020.02.02-04.16.15:114][932]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.15:114][932]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.15:405][947]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.15:405][947]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.15:626][961]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.15:626][961]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.15:803][972]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.15:803][972]LogEditorTransaction: Undo Paste
+[2020.02.02-04.16.16:063][984]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.16:063][984]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.16.16:252][993]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.16:252][993]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.16:510][  8]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.16:510][  8]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.17:751][ 86]Cmd: EDIT PASTE
+[2020.02.02-04.16.21:501][361]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.21:501][361]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.16.21:834][371]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.21:834][371]LogEditorTransaction: Undo Paste
+[2020.02.02-04.16.22:079][377]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.22:079][377]LogEditorTransaction: Undo Paste
+[2020.02.02-04.16.22:346][395]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.22:346][395]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.16.23:063][468]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.23:063][468]LogEditorTransaction: Undo Delete Actors
+[2020.02.02-04.16.26:668][771]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.16.28:834][954]Cmd: EDIT PASTE
+[2020.02.02-04.16.31:144][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL40)
+[2020.02.02-04.16.32:549][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.16.34:970][435]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des32)
+[2020.02.02-04.16.35:957][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.16.37:466][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL40)
+[2020.02.02-04.16.38:828][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.16.40:466][832]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des32)
+[2020.02.02-04.16.41:033][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL40)
+[2020.02.02-04.16.41:740][928]Cmd: DELETE
+[2020.02.02-04.16.41:740][928]Cmd: ACTOR DELETE
+[2020.02.02-04.16.41:745][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.16.41:819][928]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.02.02-04.16.41:819][928]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.02.02-04.16.42:909][ 42]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des32)
+[2020.02.02-04.16.44:033][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.16.45:646][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL38)
+[2020.02.02-04.16.48:606][497]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des32)
+[2020.02.02-04.16.48:978][521]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des31)
+[2020.02.02-04.16.50:165][620]Cmd: EDIT COPY
+[2020.02.02-04.16.50:382][638]Cmd: EDIT PASTE
+[2020.02.02-04.16.52:458][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL38)
+[2020.02.02-04.16.53:121][858]Cmd: DELETE
+[2020.02.02-04.16.53:121][858]Cmd: ACTOR DELETE
+[2020.02.02-04.16.53:127][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.16.53:201][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.02-04.16.53:201][858]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.02.02-04.16.54:595][  1]Cmd: TRANSACTION UNDO
+[2020.02.02-04.16.54:595][  1]LogEditorTransaction: Undo Delete Actors
+[2020.02.02-04.16.56:207][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.16.58:104][225]Cmd: DELETE
+[2020.02.02-04.16.58:104][225]Cmd: ACTOR DELETE
+[2020.02.02-04.16.58:108][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.16.58:181][225]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.02.02-04.16.58:182][225]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.02.02-04.16.58:577][264]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des33)
+[2020.02.02-04.16.59:571][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.17.03:699][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL37)
+[2020.02.02-04.17.05:341][816]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des33)
+[2020.02.02-04.17.06:183][880]Cmd: EDIT COPY
+[2020.02.02-04.17.06:403][897]Cmd: EDIT PASTE
+[2020.02.02-04.17.14:252][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL37)
+[2020.02.02-04.17.23:893][230]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2020.02.02-04.17.24:445][267]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des34)
+[2020.02.02-04.17.26:460][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL37)
+[2020.02.02-04.17.27:771][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.17.29:050][691]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des34)
+[2020.02.02-04.17.29:872][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.17.31:422][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_MIDDLE_WALL37)
+[2020.02.02-04.17.32:256][965]Cmd: DELETE
+[2020.02.02-04.17.32:256][965]Cmd: ACTOR DELETE
+[2020.02.02-04.17.32:260][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.17.32:334][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.02.02-04.17.32:335][965]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.02.02-04.17.32:947][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_MiddleWall_Des_C (BP_MiddleWall_Des34)
+[2020.02.02-04.17.33:950][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.19.09:210][192]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM)
+[2020.02.02-04.19.23:511][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2020.02.02-04.19.24:000][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des)
+[2020.02.02-04.19.34:975][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.19.45:828][250]Cmd: DELETE
+[2020.02.02-04.19.45:828][250]Cmd: ACTOR DELETE
+[2020.02.02-04.19.45:833][250]LogEditorActor: Deleted Actor: BP_BottomWallTest_C
+[2020.02.02-04.19.45:913][250]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.02.02-04.19.45:913][250]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2020.02.02-04.19.46:630][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.19.55:419][964]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM)
+[2020.02.02-04.19.56:275][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.02-04.19.56:837][ 60]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des3)
+[2020.02.02-04.19.58:716][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.20.00:787][363]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM)
+[2020.02.02-04.20.01:524][414]Cmd: DELETE
+[2020.02.02-04.20.01:524][414]Cmd: ACTOR DELETE
+[2020.02.02-04.20.01:530][414]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.20.01:606][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.02.02-04.20.01:606][414]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2020.02.02-04.20.02:171][464]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des3)
+[2020.02.02-04.20.03:338][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.20.06:389][793]Cmd: TRANSACTION UNDO
+[2020.02.02-04.20.06:390][793]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.20.06:869][827]Cmd: TRANSACTION UNDO
+[2020.02.02-04.20.06:869][827]LogEditorTransaction: Undo Delete Actors
+[2020.02.02-04.20.10:522][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des3)
+[2020.02.02-04.20.11:304][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.20.12:973][245]Cmd: TRANSACTION UNDO
+[2020.02.02-04.20.12:973][245]LogEditorTransaction: Undo Paste Location
+[2020.02.02-04.20.13:613][287]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM)
+[2020.02.02-04.20.14:226][327]Cmd: DELETE
+[2020.02.02-04.20.14:226][327]Cmd: ACTOR DELETE
+[2020.02.02-04.20.14:231][327]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.20.14:306][327]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.02.02-04.20.14:307][327]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2020.02.02-04.20.14:700][360]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des3)
+[2020.02.02-04.20.16:238][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.20.18:179][619]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM2)
+[2020.02.02-04.20.24:768][ 34]Cmd: DELETE
+[2020.02.02-04.20.24:768][ 34]Cmd: ACTOR DELETE
+[2020.02.02-04.20.24:773][ 34]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.20.24:774][ 34]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.20.24:775][ 34]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.20.24:775][ 34]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.20.24:776][ 34]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.20.24:852][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.02.02-04.20.24:852][ 34]LogEditorActor: Deleted 5 Actors (0.084 secs)
+[2020.02.02-04.20.25:701][108]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des3)
+[2020.02.02-04.20.26:741][183]Cmd: EDIT COPY
+[2020.02.02-04.20.27:069][208]Cmd: EDIT PASTE
+[2020.02.02-04.20.30:564][466]Cmd: EDIT PASTE
+[2020.02.02-04.20.35:300][816]Cmd: EDIT PASTE
+[2020.02.02-04.20.40:728][212]Cmd: EDIT PASTE
+[2020.02.02-04.20.44:703][498]Cmd: EDIT PASTE
+[2020.02.02-04.20.58:215][473]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM7)
+[2020.02.02-04.21.02:350][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.21.04:052][898]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des8)
+[2020.02.02-04.21.09:479][322]Cmd: TRANSACTION UNDO
+[2020.02.02-04.21.09:480][322]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.21.12:767][574]Cmd: EDIT COPY
+[2020.02.02-04.21.13:197][608]Cmd: EDIT PASTE
+[2020.02.02-04.21.15:259][768]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-04.21.16:877][867]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM7)
+[2020.02.02-04.21.18:072][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.21.21:032][110]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-04.21.21:599][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.21.23:645][300]Cmd: TRANSACTION UNDO
+[2020.02.02-04.21.23:645][300]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-04.21.24:615][364]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des9)
+[2020.02.02-04.21.25:380][415]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM7)
+[2020.02.02-04.21.26:559][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.21.27:815][571]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des9)
+[2020.02.02-04.21.28:614][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.21.30:984][806]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM7)
+[2020.02.02-04.21.32:236][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.21.33:479][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-04.21.33:864][984]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des9)
+[2020.02.02-04.21.35:083][ 74]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM7)
+[2020.02.02-04.21.35:825][123]Cmd: DELETE
+[2020.02.02-04.21.35:825][123]Cmd: ACTOR DELETE
+[2020.02.02-04.21.35:831][123]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.21.35:918][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.02.02-04.21.35:918][123]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2020.02.02-04.21.36:781][198]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des9)
+[2020.02.02-04.21.37:710][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.21.40:389][469]Cmd: EDIT COPY
+[2020.02.02-04.21.40:644][488]Cmd: EDIT PASTE
+[2020.02.02-04.21.41:358][539]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM8)
+[2020.02.02-04.21.42:024][583]Cmd: DELETE
+[2020.02.02-04.21.42:024][583]Cmd: ACTOR DELETE
+[2020.02.02-04.21.42:029][583]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.21.42:108][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.02.02-04.21.42:108][583]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2020.02.02-04.21.42:381][607]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des10)
+[2020.02.02-04.22.17:866][750]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-04.22.18:025][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.02.02-04.22.23:395][750]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_Auto85D36057A45E2C514570086A4EA2115EB.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/MAP_3rd_Auto8.umap'
+[2020.02.02-04.22.23:493][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/MAP_3rd' took 5.544
+[2020.02.02-04.22.23:493][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.544
+[2020.02.02-04.22.39:396][763]Cmd: TRANSACTION UNDO
+[2020.02.02-04.22.39:396][763]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.22.40:653][859]Cmd: EDIT COPY
+[2020.02.02-04.22.41:005][885]Cmd: EDIT PASTE
+[2020.02.02-04.22.43:272][ 60]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM9)
+[2020.02.02-04.22.45:300][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.22.47:091][294]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des11)
+[2020.02.02-04.22.48:366][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.22.50:174][535]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM9)
+[2020.02.02-04.22.51:485][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.22.52:975][723]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des11)
+[2020.02.02-04.22.54:572][848]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM9)
+[2020.02.02-04.22.56:580][  7]Cmd: DELETE
+[2020.02.02-04.22.56:580][  7]Cmd: ACTOR DELETE
+[2020.02.02-04.22.56:586][  7]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.22.56:662][  7]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.02.02-04.22.56:662][  7]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2020.02.02-04.22.57:093][ 47]LogEditorViewport: Clicking on Actor (context menu): BP_BottomWall_Des_C (BP_BottomWall_Des11)
+[2020.02.02-04.22.57:187][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-04.22.58:140][113]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des11)
+[2020.02.02-04.22.59:314][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.23.03:011][509]Cmd: EDIT COPY
+[2020.02.02-04.23.03:485][548]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM10)
+[2020.02.02-04.23.04:222][601]Cmd: DELETE
+[2020.02.02-04.23.04:222][601]Cmd: ACTOR DELETE
+[2020.02.02-04.23.04:227][601]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.23.04:299][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.02.02-04.23.04:299][601]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.02.02-04.23.05:070][676]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des11)
+[2020.02.02-04.23.05:853][736]Cmd: EDIT PASTE
+[2020.02.02-04.23.07:175][840]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des12)
+[2020.02.02-04.23.22:903][ 78]Cmd: EDIT COPY
+[2020.02.02-04.23.23:188][ 92]Cmd: EDIT PASTE
+[2020.02.02-04.23.24:690][187]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM11)
+[2020.02.02-04.23.27:672][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.23.29:112][454]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des13)
+[2020.02.02-04.23.29:994][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.23.31:292][595]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM11)
+[2020.02.02-04.23.32:337][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.23.33:778][738]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des13)
+[2020.02.02-04.23.35:570][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.23.36:992][952]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM11)
+[2020.02.02-04.23.37:792][999]Cmd: DELETE
+[2020.02.02-04.23.37:792][999]Cmd: ACTOR DELETE
+[2020.02.02-04.23.37:798][999]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.23.37:869][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.02-04.23.37:869][999]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.02.02-04.23.38:287][ 32]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.02.02-04.23.38:854][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des13)
+[2020.02.02-04.23.39:912][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.23.43:474][405]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM12)
+[2020.02.02-04.23.44:485][506]Cmd: DELETE
+[2020.02.02-04.23.44:485][506]Cmd: ACTOR DELETE
+[2020.02.02-04.23.44:490][506]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.23.44:565][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.02.02-04.23.44:565][506]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.02.02-04.23.45:273][589]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des13)
+[2020.02.02-04.23.45:841][645]Cmd: EDIT COPY
+[2020.02.02-04.23.46:113][673]Cmd: EDIT PASTE
+[2020.02.02-04.23.58:635][647]Cmd: EDIT COPY
+[2020.02.02-04.23.58:832][657]Cmd: EDIT PASTE
+[2020.02.02-04.24.00:814][767]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM13)
+[2020.02.02-04.24.02:731][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.07:402][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des15)
+[2020.02.02-04.24.08:796][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.10:403][262]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM13)
+[2020.02.02-04.24.11:415][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.12:684][376]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des15)
+[2020.02.02-04.24.13:800][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.16:541][594]Cmd: TRANSACTION UNDO
+[2020.02.02-04.24.16:541][594]LogEditorTransaction: Undo Paste Location
+[2020.02.02-04.24.17:295][632]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM13)
+[2020.02.02-04.24.18:015][666]Cmd: DELETE
+[2020.02.02-04.24.18:015][666]Cmd: ACTOR DELETE
+[2020.02.02-04.24.18:020][666]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.24.18:101][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.02.02-04.24.18:101][666]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2020.02.02-04.24.18:540][694]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des15)
+[2020.02.02-04.24.19:709][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.26:600][193]Cmd: EDIT COPY
+[2020.02.02-04.24.27:251][245]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (OBJ_BOTTOM_WALL_DM14)
+[2020.02.02-04.24.27:874][288]Cmd: DELETE
+[2020.02.02-04.24.27:874][288]Cmd: ACTOR DELETE
+[2020.02.02-04.24.27:879][288]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.02.02-04.24.27:952][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.02.02-04.24.27:952][288]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.02.02-04.24.28:656][355]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des15)
+[2020.02.02-04.24.28:839][364]Cmd: EDIT PASTE
+[2020.02.02-04.24.38:794][ 63]Cmd: EDIT COPY
+[2020.02.02-04.24.39:004][ 71]Cmd: EDIT PASTE
+[2020.02.02-04.24.41:085][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_BOTTOM_WALL19)
+[2020.02.02-04.24.42:793][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.44:073][399]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des17)
+[2020.02.02-04.24.44:807][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.46:579][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_BOTTOM_WALL19)
+[2020.02.02-04.24.47:761][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.49:864][772]Cmd: DELETE
+[2020.02.02-04.24.49:864][772]Cmd: ACTOR DELETE
+[2020.02.02-04.24.49:870][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.24.49:946][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.02.02-04.24.49:946][772]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.02.02-04.24.50:254][796]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des17)
+[2020.02.02-04.24.51:246][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.24.56:983][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ_BOTTOM_WALL20)
+[2020.02.02-04.24.59:926][513]Cmd: DELETE
+[2020.02.02-04.24.59:926][513]Cmd: ACTOR DELETE
+[2020.02.02-04.24.59:931][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-04.25.00:003][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.02.02-04.25.00:003][513]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.02.02-04.25.00:459][561]LogEditorViewport: Clicking on Actor (LMB): BP_BottomWall_Des_C (BP_BottomWall_Des17)
+[2020.02.02-04.25.01:038][607]Cmd: EDIT COPY
+[2020.02.02-04.25.01:319][632]Cmd: EDIT PASTE
+[2020.02.02-04.25.06:559][ 93]Cmd: TRANSACTION UNDO
+[2020.02.02-04.25.06:559][ 93]LogEditorTransaction: Undo Move Actors
+[2020.02.02-04.25.34:484][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.26.30:960][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.02-04.26.31:053][224]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-04.26.35:448][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-04.26.35:559][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/MAP_3rd" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.02-04.26.35:767][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.02.02-04.26.41:306][478]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rdEDC52809492E3ED24946689123399A74.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd.umap'
+[2020.02.02-04.26.41:734][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/MAP_3rd_BuiltData" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd_BuiltData.uasset" SILENT=true
+[2020.02.02-04.26.42:578][478]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_BuiltData118474734EC6B3FCC95326A4C66A0D71.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd_BuiltData.uasset'
+[2020.02.02-04.26.44:386][571]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.02.02-04.26.47:286][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
