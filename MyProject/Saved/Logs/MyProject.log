@@ -8549,3 +8549,928 @@ Make sure 'BP_MiddleWall_Des_C' has been compiled for  Get DefaultSceneRoot
 [2020.02.01-23.40.41:546][811]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd4A2340814343008C10273D9B599AA579.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd.umap'
 [2020.02.01-23.40.41:908][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/MAP_3rd_BuiltData" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd_BuiltData.uasset" SILENT=true
 [2020.02.01-23.40.42:388][811]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_BuiltData76A743244FF53D5FA1551E922DB313A9.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Content/Custom/Maps/MAP_3rd_BuiltData.uasset'
+[2020.02.01-23.54.20:503][273]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-23.54.20:603][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.20:603][273]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-23.54.21:088][273]LogPlayLevel: [PlayLevel] Compiling NewMainCharacter before play...
+[2020.02.01-23.54.21:844][273]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2020.02.01-23.54.21:844][273]LogPlayLevel: PlayLevel: Blueprint regeneration took 1241 ms (1 blueprints)
+[2020.02.01-23.54.21:844][273]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 1:54:21 PM)
+[2020.02.01-23.54.21:845][273]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.54.21:852][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007132s)
+[2020.02.01-23.54.21:854][273]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.01-23.54.21:854][273]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2020.02.01-23.54.21:854][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.009182s)
+[2020.02.01-23.54.21:946][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.01-23.54.21:963][273]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-23.54.21:980][273]LogInit: FAudioDevice initialized.
+[2020.02.01-23.54.21:992][273]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-23.54.21:996][273]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-18.54.21
+[2020.02.01-23.54.21:997][273]LogWorld: Bringing up level for play took: 0.003158
+[2020.02.01-23.54.21:997][273]LogOnline: OSS: Creating online subsystem instance for: :Context_215
+[2020.02.01-23.54.22:001][273]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd 1.239
+[2020.02.01-23.54.22:001][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.26:877][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.26:877][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.54.26:878][821]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.54.26:878][821]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-23.54.26:900][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-23.54.26:900][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.26:987][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.54.26:994][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.01-23.54.27:025][822]LogPlayLevel: Display: Destroying online subsystem :Context_215
+[2020.02.01-23.54.32:623][407]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.54.33:081][438]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.54.33:551][476]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.54.34:947][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-23.54.43:743][111]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-23.54.43:790][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.43:790][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-23.54.43:790][111]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 1:54:43 PM)
+[2020.02.01-23.54.43:791][111]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.54.43:803][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012398s)
+[2020.02.01-23.54.43:805][111]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.01-23.54.43:805][111]LogPlayLevel: PIE: World Init took: (0.001817s)
+[2020.02.01-23.54.43:805][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.014373s)
+[2020.02.01-23.54.43:900][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.01-23.54.43:916][111]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-23.54.43:933][111]LogInit: FAudioDevice initialized.
+[2020.02.01-23.54.43:946][111]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-23.54.43:949][111]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-18.54.43
+[2020.02.01-23.54.43:949][111]LogWorld: Bringing up level for play took: 0.002606
+[2020.02.01-23.54.43:949][111]LogOnline: OSS: Creating online subsystem instance for: :Context_216
+[2020.02.01-23.54.43:953][111]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd -0.809
+[2020.02.01-23.54.43:953][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.50:145][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.50:146][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.54.50:146][833]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.54.50:146][833]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-23.54.50:177][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-23.54.50:177][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.54.50:266][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.54.50:273][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.01-23.54.50:302][834]LogPlayLevel: Display: Destroying online subsystem :Context_216
+[2020.02.01-23.54.55:491][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.01-23.54.56:112][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.01-23.54.56:613][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.01-23.54.57:098][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.01-23.54.57:668][529]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.54.58:199][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.54.59:232][654]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.55.40:641][262]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.55.41:199][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.55.41:655][341]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-23.55.45:002][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-23.55.46:495][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.01-23.55.47:392][801]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2020.02.01-23.55.50:572][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-23.56.05:480][854]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.01-23.56.05:483][854]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_2  to imply a specific type.
+[2020.02.01-23.56.05:483][854]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_3  to imply a specific type.
+[2020.02.01-23.56.05:484][854]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.02.01-23.56.05:484][854]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.01-23.56.05:864][854]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.02.01-23.56.27:015][984]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.01-23.56.27:017][984]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 2' does not inherit from 'Player Controller' ( Cast To BP_KillFloor_2  would always fail).
+[2020.02.01-23.56.27:017][984]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 3' does not inherit from 'Player Controller' ( Cast To BP_KillFloor_3  would always fail).
+[2020.02.01-23.56.27:475][984]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.02.01-23.56.35:150][396]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.01-23.56.35:593][396]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2020.02.01-23.56.46:578][934]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.01-23.56.47:024][934]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.02.01-23.56.51:566][202]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-23.56.51:627][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.56.51:627][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-23.56.51:627][202]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 1:56:51 PM)
+[2020.02.01-23.56.51:628][202]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.56.51:644][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015906s)
+[2020.02.01-23.56.51:646][202]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.01-23.56.51:646][202]LogPlayLevel: PIE: World Init took: (0.001916s)
+[2020.02.01-23.56.51:646][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.018028s)
+[2020.02.01-23.56.51:761][202]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2020.02.01-23.56.51:785][202]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-23.56.51:802][202]LogInit: FAudioDevice initialized.
+[2020.02.01-23.56.51:846][202]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-23.56.51:851][202]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-18.56.51
+[2020.02.01-23.56.51:852][202]LogWorld: Bringing up level for play took: 0.003848
+[2020.02.01-23.56.51:852][202]LogOnline: OSS: Creating online subsystem instance for: :Context_217
+[2020.02.01-23.56.51:857][202]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd 1.093
+[2020.02.01-23.56.51:857][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.56.59:634][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.56.59:635][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.56.59:635][ 26]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.56.59:635][ 26]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-23.56.59:675][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-23.56.59:675][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.56.59:773][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.56.59:779][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.02.01-23.56.59:841][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2020.02.01-23.57.03:989][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.01-23.57.04:665][439]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2020.02.01-23.57.05:781][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-23.57.05:866][529]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-23.57.05:916][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.05:916][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-23.57.05:916][529]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 1:57:05 PM)
+[2020.02.01-23.57.05:917][529]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.57.05:923][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006194s)
+[2020.02.01-23.57.05:925][529]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.01-23.57.05:925][529]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2020.02.01-23.57.05:925][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.008117s)
+[2020.02.01-23.57.06:017][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.01-23.57.06:034][529]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-23.57.06:051][529]LogInit: FAudioDevice initialized.
+[2020.02.01-23.57.06:065][529]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-23.57.06:069][529]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-18.57.06
+[2020.02.01-23.57.06:069][529]LogWorld: Bringing up level for play took: 0.002664
+[2020.02.01-23.57.06:069][529]LogOnline: OSS: Creating online subsystem instance for: :Context_218
+[2020.02.01-23.57.06:073][529]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd -0.69
+[2020.02.01-23.57.06:073][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.08:282][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.08:282][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.57.08:282][767]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.57.08:282][767]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-23.57.08:303][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-23.57.08:303][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.08:407][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.57.08:413][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.02.01-23.57.08:456][768]LogPlayLevel: Display: Destroying online subsystem :Context_218
+[2020.02.01-23.57.11:679][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2020.02.01-23.57.12:961][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-23.57.29:171][ 96]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.01-23.57.29:585][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.02.01-23.57.32:726][296]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-23.57.32:777][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.32:777][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-23.57.32:777][296]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 1:57:32 PM)
+[2020.02.01-23.57.32:778][296]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.57.32:784][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005960s)
+[2020.02.01-23.57.32:785][296]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.01-23.57.32:786][296]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2020.02.01-23.57.32:786][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.007830s)
+[2020.02.01-23.57.32:882][296]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.02.01-23.57.32:898][296]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-23.57.32:915][296]LogInit: FAudioDevice initialized.
+[2020.02.01-23.57.32:928][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-23.57.32:931][296]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-18.57.32
+[2020.02.01-23.57.32:931][296]LogWorld: Bringing up level for play took: 0.002855
+[2020.02.01-23.57.32:931][296]LogOnline: OSS: Creating online subsystem instance for: :Context_219
+[2020.02.01-23.57.32:935][296]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd 0.172
+[2020.02.01-23.57.32:935][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.39:156][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.39:156][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.57.39:156][  3]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.01-23.57.39:156][  3]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-23.57.39:184][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-23.57.39:185][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.01-23.57.39:274][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-23.57.39:280][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.01-23.57.39:324][  4]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2020.02.01-23.57.47:648][837]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2020.02.01-23.57.49:286][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-23.57.50:011][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-00.00.47:355][ 74]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.00.47:486][ 74]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.00.47:522][ 74]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.00.47:784][ 78]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-00.00.47:989][ 78]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.00.48:289][ 83]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 21
+[2020.02.02-00.00.48:289][ 83]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 20
+[2020.02.02-00.00.48:289][ 83]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 19
+[2020.02.02-00.00.48:289][ 83]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 18
+[2020.02.02-00.00.48:289][ 83]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 17
+[2020.02.02-00.00.48:289][ 83]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 16
+[2020.02.02-00.00.48:289][ 83]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 15
+[2020.02.02-00.00.48:703][ 94]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 14
+[2020.02.02-00.00.48:703][ 94]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 13
+[2020.02.02-00.00.48:742][ 95]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 12
+[2020.02.02-00.00.48:742][ 95]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 11
+[2020.02.02-00.00.48:778][ 96]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 10
+[2020.02.02-00.00.48:812][ 97]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 9
+[2020.02.02-00.00.48:845][ 98]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 8
+[2020.02.02-00.00.48:885][ 99]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 7
+[2020.02.02-00.00.48:920][100]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 6
+[2020.02.02-00.00.49:097][105]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 5
+[2020.02.02-00.00.49:135][106]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 4
+[2020.02.02-00.00.49:351][111]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 3
+[2020.02.02-00.00.49:351][111]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 2
+[2020.02.02-00.00.49:510][114]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 1
+[2020.02.02-00.00.50:260][141]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.02.02-00.00.50:260][141]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2020.02.02-00.00.50:260][141]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.02-00.00.50:260][141]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.02-00.00.50:260][141]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.02-00.00.50:260][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.02-00.01.23:104][579]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.01.23:239][579]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.01.23:265][579]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.01.23:266][579]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.01.23:662][588]LogEditorTransaction: Undo Comment Bubble Visibility
+[2020.02.02-00.01.23:853][588]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.23:993][589]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-00.01.24:094][589]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 21
+[2020.02.02-00.01.24:095][589]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 20
+[2020.02.02-00.01.24:095][589]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 19
+[2020.02.02-00.01.24:095][589]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 18
+[2020.02.02-00.01.24:095][589]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 17
+[2020.02.02-00.01.24:095][589]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 16
+[2020.02.02-00.01.24:095][589]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 15
+[2020.02.02-00.01.24:234][589]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.24:419][590]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.01.24:531][590]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 21
+[2020.02.02-00.01.24:531][590]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 20
+[2020.02.02-00.01.24:531][590]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 19
+[2020.02.02-00.01.24:531][590]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 18
+[2020.02.02-00.01.24:531][590]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 17
+[2020.02.02-00.01.24:531][590]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.01.24:698][590]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 15
+[2020.02.02-00.01.24:698][590]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 14
+[2020.02.02-00.01.24:698][590]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.01.24:705][590]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.24:885][591]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 21
+[2020.02.02-00.01.24:886][591]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-00.01.25:035][591]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 20
+[2020.02.02-00.01.25:178][591]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 19
+[2020.02.02-00.01.25:178][591]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 18
+[2020.02.02-00.01.25:178][591]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 17
+[2020.02.02-00.01.25:178][591]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 16
+[2020.02.02-00.01.25:178][591]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 15
+[2020.02.02-00.01.25:185][591]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.25:226][591]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 21
+[2020.02.02-00.01.25:226][591]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.02.02-00.01.25:226][591]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 19
+[2020.02.02-00.01.25:226][591]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 18
+[2020.02.02-00.01.25:339][592]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 17
+[2020.02.02-00.01.25:339][592]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 16
+[2020.02.02-00.01.25:339][592]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 15
+[2020.02.02-00.01.25:339][592]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 14
+[2020.02.02-00.01.25:339][592]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.01.25:460][592]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 13
+[2020.02.02-00.01.25:460][592]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 12
+[2020.02.02-00.01.25:460][592]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 11
+[2020.02.02-00.01.25:460][592]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 10
+[2020.02.02-00.01.25:598][592]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 9
+[2020.02.02-00.01.25:598][592]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 8
+[2020.02.02-00.01.25:598][592]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 7
+[2020.02.02-00.01.25:598][592]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 6
+[2020.02.02-00.01.25:599][592]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 5
+[2020.02.02-00.01.25:599][592]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 4
+[2020.02.02-00.01.25:599][592]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 3
+[2020.02.02-00.01.25:599][592]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 2
+[2020.02.02-00.01.25:605][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.25:643][592]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 21
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 20
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 19
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 18
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 17
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 16
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 15
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 14
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 13
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 11
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 10
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 9
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 8
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 7
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 6
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 5
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 4
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 3
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 2
+[2020.02.02-00.01.26:814][592]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 1
+[2020.02.02-00.01.26:909][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 19
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 18
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 17
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 16
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 14
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 13
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 12
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 11
+[2020.02.02-00.01.26:936][592]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 10
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 9
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 8
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 7
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 6
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 5
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 4
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 3
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 2
+[2020.02.02-00.01.26:937][592]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 1
+[2020.02.02-00.01.26:937][592]LogEditorTransaction: Undo Add Node
+[2020.02.02-00.01.27:125][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.27:165][592]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.01.27:313][592]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 21
+[2020.02.02-00.01.27:314][592]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 20
+[2020.02.02-00.01.27:314][592]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 19
+[2020.02.02-00.01.27:314][592]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 18
+[2020.02.02-00.01.27:314][592]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 17
+[2020.02.02-00.01.27:314][592]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 16
+[2020.02.02-00.01.27:314][592]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 15
+[2020.02.02-00.01.27:314][592]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 14
+[2020.02.02-00.01.27:450][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.27:493][592]LogEditorTransaction: Undo Add Node
+[2020.02.02-00.01.27:679][592]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.01.27:679][592]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.02.02-00.01.27:680][592]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 19
+[2020.02.02-00.01.27:680][592]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 18
+[2020.02.02-00.01.27:680][592]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 17
+[2020.02.02-00.01.27:680][592]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 16
+[2020.02.02-00.01.27:680][592]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.01.27:680][592]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 14
+[2020.02.02-00.01.27:680][592]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 13
+[2020.02.02-00.01.27:853][592]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 12
+[2020.02.02-00.01.27:853][592]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 11
+[2020.02.02-00.01.27:853][592]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 10
+[2020.02.02-00.01.27:860][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.27:912][592]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 21
+[2020.02.02-00.01.27:912][592]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 20
+[2020.02.02-00.01.27:912][592]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 19
+[2020.02.02-00.01.27:912][592]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 18
+[2020.02.02-00.01.27:912][592]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.01.28:067][592]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 17
+[2020.02.02-00.01.28:067][592]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 16
+[2020.02.02-00.01.28:067][592]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 15
+[2020.02.02-00.01.28:067][592]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 14
+[2020.02.02-00.01.28:067][592]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 13
+[2020.02.02-00.01.28:067][592]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 12
+[2020.02.02-00.01.28:201][592]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2020.02.02-00.01.28:201][592]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 10
+[2020.02.02-00.01.28:201][592]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 9
+[2020.02.02-00.01.28:207][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.28:247][592]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 21
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 20
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 19
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 18
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 17
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 16
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 15
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 14
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 13
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 12
+[2020.02.02-00.01.28:378][592]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 11
+[2020.02.02-00.01.28:521][592]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 10
+[2020.02.02-00.01.28:521][592]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 9
+[2020.02.02-00.01.28:529][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.28:569][592]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-00.01.28:697][592]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 21
+[2020.02.02-00.01.28:697][592]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 20
+[2020.02.02-00.01.28:697][592]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 19
+[2020.02.02-00.01.28:698][592]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 18
+[2020.02.02-00.01.28:698][592]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 17
+[2020.02.02-00.01.28:698][592]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 16
+[2020.02.02-00.01.28:698][592]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 15
+[2020.02.02-00.01.28:698][592]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 14
+[2020.02.02-00.01.28:698][592]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 13
+[2020.02.02-00.01.28:840][592]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 12
+[2020.02.02-00.01.28:840][592]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 11
+[2020.02.02-00.01.28:841][592]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 10
+[2020.02.02-00.01.28:847][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.28:889][592]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 21
+[2020.02.02-00.01.28:889][592]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 19
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 18
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 17
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 16
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 15
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 14
+[2020.02.02-00.01.29:037][592]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 13
+[2020.02.02-00.01.29:181][592]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 12
+[2020.02.02-00.01.29:181][592]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 11
+[2020.02.02-00.01.29:181][592]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 10
+[2020.02.02-00.01.29:188][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.29:239][592]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 21
+[2020.02.02-00.01.29:239][592]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.01.29:362][592]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 20
+[2020.02.02-00.01.29:362][592]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 19
+[2020.02.02-00.01.29:362][592]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 18
+[2020.02.02-00.01.29:363][592]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 17
+[2020.02.02-00.01.29:363][592]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.01.29:363][592]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 15
+[2020.02.02-00.01.29:363][592]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 14
+[2020.02.02-00.01.29:535][592]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.01.29:535][592]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 12
+[2020.02.02-00.01.29:535][592]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 11
+[2020.02.02-00.01.29:535][592]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 10
+[2020.02.02-00.01.29:535][592]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 9
+[2020.02.02-00.01.29:535][592]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2020.02.02-00.01.29:535][592]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 7
+[2020.02.02-00.01.29:542][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.29:589][592]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 21
+[2020.02.02-00.01.29:590][592]LogEditorTransaction: Undo Add Node
+[2020.02.02-00.01.29:718][592]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 20
+[2020.02.02-00.01.29:718][592]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 19
+[2020.02.02-00.01.29:718][592]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 18
+[2020.02.02-00.01.29:718][592]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 17
+[2020.02.02-00.01.29:718][592]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 16
+[2020.02.02-00.01.29:718][592]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 15
+[2020.02.02-00.01.29:718][592]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 14
+[2020.02.02-00.01.29:887][592]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 13
+[2020.02.02-00.01.29:888][592]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 12
+[2020.02.02-00.01.29:888][592]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 11
+[2020.02.02-00.01.29:895][592]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.01.29:952][592]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 21
+[2020.02.02-00.01.29:952][592]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 20
+[2020.02.02-00.01.29:952][592]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 19
+[2020.02.02-00.01.29:952][592]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 18
+[2020.02.02-00.01.29:953][592]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 17
+[2020.02.02-00.01.29:953][592]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 16
+[2020.02.02-00.01.29:953][592]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 15
+[2020.02.02-00.01.30:703][593]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 14
+[2020.02.02-00.01.30:703][593]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 13
+[2020.02.02-00.01.30:703][593]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 12
+[2020.02.02-00.01.30:703][593]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 11
+[2020.02.02-00.01.30:703][593]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 10
+[2020.02.02-00.01.30:703][593]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 9
+[2020.02.02-00.01.30:703][593]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 8
+[2020.02.02-00.01.30:704][593]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 7
+[2020.02.02-00.01.30:704][593]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 6
+[2020.02.02-00.01.30:704][593]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 5
+[2020.02.02-00.01.30:704][593]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 4
+[2020.02.02-00.01.30:704][593]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 3
+[2020.02.02-00.01.30:704][593]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 2
+[2020.02.02-00.01.30:704][593]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 1
+[2020.02.02-00.01.31:880][607]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.02.02-00.01.31:880][607]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2020.02.02-00.01.31:880][607]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.02-00.01.31:880][607]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.02-00.01.31:880][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.02-00.01.31:880][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.02-00.02.40:498][217]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.02.02-00.02.42:398][217]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_Auto01B61C6FF46EB3E22224CDCBF7FA27AD9.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/MAP_3rd_Auto0.umap'
+[2020.02.02-00.02.42:462][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/MAP_3rd' took 2.075
+[2020.02.02-00.02.42:462][217]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.075
+[2020.02.02-00.02.42:470][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/NewMainCharacter] ([1] browsable assets)...
+[2020.02.02-00.02.42:470][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/NewMainCharacter]
+[2020.02.02-00.02.48:811][217]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/NewMainCharacter_Auto0614E9D9D44088E1E178AF7B0711EC56B.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/NewMainCharacter_Auto0.uasset'
+[2020.02.02-00.02.48:864][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/CustomBP/BP_KillFloor_3] ([1] browsable assets)...
+[2020.02.02-00.02.48:864][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/CustomBP/BP_KillFloor_3]
+[2020.02.02-00.02.49:478][217]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BP_KillFloor_3_Auto02054D09B4F9B1DD1EBFABFA371960002.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/CustomBP/BP_KillFloor_3_Auto0.uasset'
+[2020.02.02-00.02.49:523][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/CustomBP/BP_Checkpoint] ([1] browsable assets)...
+[2020.02.02-00.02.49:523][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/CustomBP/BP_Checkpoint]
+[2020.02.02-00.02.50:139][217]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BP_Checkpoint_Auto04082DE7B43F7D5FC7B52299F8F6B44FB.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/CustomBP/BP_Checkpoint_Auto0.uasset'
+[2020.02.02-00.02.50:175][217]LogFileHelpers: Auto-saving content packages took 7.707
+[2020.02.02-00.04.53:559][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-00.07.06:739][771]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-00.07.07:069][771]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.07.07:098][771]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.07.08:941][818]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.02.02-00.07.08:941][818]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2020.02.02-00.07.08:942][818]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.02-00.07.08:942][818]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.02-00.07.08:942][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.02-00.07.08:942][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.02-00.07.23:279][368]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.07.24:013][368]LogBlueprint: Error: [Compiler NewMainCharacter] This blueprint (self) is not a BP_KillFloor_2_C, therefore ' Target ' must have a connection.
+[2020.02.02-00.07.24:013][368]LogBlueprint: Error: [Compiler NewMainCharacter] This blueprint (self) is not a BP_KillFloor_3_C, therefore ' Target ' must have a connection.
+[2020.02.02-00.07.24:013][368]LogBlueprint: Error: [Compiler NewMainCharacter] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_2  to imply a specific type.
+[2020.02.02-00.07.24:013][368]LogBlueprint: Error: [Compiler NewMainCharacter] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_3  to imply a specific type.
+[2020.02.02-00.07.24:015][368]LogBlueprint: Error: [Compiler NewMainCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.02.02-00.07.24:017][368]LogBlueprint: Error: [Compiler NewMainCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.02.02-00.07.24:017][368]LogBlueprint: Error: [Compiler NewMainCharacter] Variable node  Set Checkpoint  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.02-00.07.24:017][368]LogBlueprint: Error: [Compiler NewMainCharacter] Variable node  Set Checkpoint  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.02-00.07.24:500][368]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2020.02.02-00.07.39:990][  4]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.07.40:593][  4]LogBlueprint: Error: [Compiler NewMainCharacter] This blueprint (self) is not a BP_KillFloor_2_C, therefore ' Target ' must have a connection.
+[2020.02.02-00.07.40:594][  4]LogBlueprint: Error: [Compiler NewMainCharacter] This blueprint (self) is not a BP_KillFloor_3_C, therefore ' Target ' must have a connection.
+[2020.02.02-00.07.40:595][  4]LogBlueprint: Error: [Compiler NewMainCharacter] Variable node  Set Checkpoint  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.02-00.07.40:596][  4]LogBlueprint: Error: [Compiler NewMainCharacter] Variable node  Set Checkpoint  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.02-00.07.41:037][  4]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2020.02.02-00.07.50:292][386]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.07.51:673][386]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.02.02-00.07.59:342][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-00.08.00:166][922]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-00.08.00:209][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.00:210][922]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.02-00.08.00:393][922]LogPlayLevel: [PlayLevel] Compiling BP_Checkpoint before play...
+[2020.02.02-00.08.00:908][922]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.02.02-00.08.00:908][922]LogPlayLevel: PlayLevel: Blueprint regeneration took 698 ms (1 blueprints)
+[2020.02.02-00.08.00:908][922]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 2:08:00 PM)
+[2020.02.02-00.08.00:909][922]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-00.08.00:915][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006143s)
+[2020.02.02-00.08.00:916][922]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-00.08.00:917][922]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2020.02.02-00.08.00:917][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.008100s)
+[2020.02.02-00.08.01:005][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.02-00.08.01:023][922]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-00.08.01:041][922]LogInit: FAudioDevice initialized.
+[2020.02.02-00.08.01:055][922]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-00.08.01:058][922]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-19.08.01
+[2020.02.02-00.08.01:059][922]LogWorld: Bringing up level for play took: 0.003111
+[2020.02.02-00.08.01:059][922]LogOnline: OSS: Creating online subsystem instance for: :Context_220
+[2020.02.02-00.08.01:063][922]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd 0.295
+[2020.02.02-00.08.01:063][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.08:447][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.08:447][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-00.08.08:447][661]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-00.08.08:448][661]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-00.08.08:467][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-00.08.08:468][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.08:555][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-00.08.08:561][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.02-00.08.08:607][662]LogPlayLevel: Display: Destroying online subsystem :Context_220
+[2020.02.02-00.08.14:365][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.02-00.08.14:999][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.02-00.08.17:867][412]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2020.02.02-00.08.30:038][295]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.02-00.08.31:128][373]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.02-00.08.33:159][530]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint2)
+[2020.02.02-00.08.36:144][765]Cmd: DELETE
+[2020.02.02-00.08.36:144][765]Cmd: ACTOR DELETE
+[2020.02.02-00.08.36:153][765]LogEditorActor: Deleted Actor: BP_Checkpoint_C
+[2020.02.02-00.08.36:236][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.02.02-00.08.36:236][765]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2020.02.02-00.08.37:736][912]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2020.02.02-00.08.47:017][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-00.08.47:117][611]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-00.08.47:183][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.47:183][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-00.08.47:183][611]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 2:08:47 PM)
+[2020.02.02-00.08.47:184][611]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-00.08.47:190][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006202s)
+[2020.02.02-00.08.47:192][611]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-00.08.47:192][611]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2020.02.02-00.08.47:192][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.008054s)
+[2020.02.02-00.08.47:286][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.02.02-00.08.47:302][611]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-00.08.47:318][611]LogInit: FAudioDevice initialized.
+[2020.02.02-00.08.47:328][611]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-00.08.47:331][611]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-19.08.47
+[2020.02.02-00.08.47:332][611]LogWorld: Bringing up level for play took: 0.002815
+[2020.02.02-00.08.47:332][611]LogOnline: OSS: Creating online subsystem instance for: :Context_221
+[2020.02.02-00.08.47:335][611]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd 0.568
+[2020.02.02-00.08.47:335][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.53:054][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.53:054][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-00.08.53:054][212]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-00.08.53:055][212]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-00.08.53:076][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-00.08.53:076][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.08.53:185][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-00.08.53:192][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.02.02-00.08.53:234][213]LogPlayLevel: Display: Destroying online subsystem :Context_221
+[2020.02.02-00.09.09:286][767]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2020.02.02-00.09.25:313][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_KillFloor_3_C (BP_KillFloor_3)
+[2020.02.02-00.09.27:579][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-00.09.28:461][208]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.02-00.11.00:112][671]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.11.01:015][671]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.02.02-00.13.04:669][134]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2020.02.02-00.13.06:367][134]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_Auto1C28FCB7649CDE9BDC3F311A0E65960D8.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/MAP_3rd_Auto1.umap'
+[2020.02.02-00.13.06:446][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/MAP_3rd' took 1.871
+[2020.02.02-00.13.06:446][134]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.871
+[2020.02.02-00.13.06:455][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/NewMainCharacter] ([1] browsable assets)...
+[2020.02.02-00.13.06:455][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/NewMainCharacter]
+[2020.02.02-00.13.10:248][134]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/NewMainCharacter_Auto18D694976471358E47F024FBCE0B4CDEC.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/NewMainCharacter_Auto1.uasset'
+[2020.02.02-00.13.10:361][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/CustomBP/BP_KillFloor_3] ([1] browsable assets)...
+[2020.02.02-00.13.10:361][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/CustomBP/BP_KillFloor_3]
+[2020.02.02-00.13.11:035][134]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BP_KillFloor_3_Auto19930DEB5480811549E6F2BAF0BC846DA.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/CustomBP/BP_KillFloor_3_Auto1.uasset'
+[2020.02.02-00.13.11:122][134]LogFileHelpers: Auto-saving content packages took 4.669
+[2020.02.02-00.16.51:409][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-00.17.59:352][372]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.17.59:743][372]LogBlueprint: Error: [Compiler NewMainCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.02.02-00.18.00:190][372]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2020.02.02-00.18.09:696][768]LogEditorTransaction: Undo Move Node
+[2020.02.02-00.18.10:062][768]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.18.10:091][768]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.18.10:538][773]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-00.18.11:264][773]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 15
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 14
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 13
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 12
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 11
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 10
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 9
+[2020.02.02-00.18.11:302][773]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 8
+[2020.02.02-00.18.11:830][775]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 7
+[2020.02.02-00.18.11:831][775]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 6
+[2020.02.02-00.18.11:831][775]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 5
+[2020.02.02-00.18.11:831][775]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 4
+[2020.02.02-00.18.11:831][775]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 3
+[2020.02.02-00.18.11:831][775]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 2
+[2020.02.02-00.18.11:831][775]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.18.11:832][775]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-00.18.12:674][775]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.18.12:694][775]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.18.13:813][798]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.02.02-00.18.13:813][798]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2020.02.02-00.18.13:813][798]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.02-00.18.13:813][798]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.02-00.18.13:813][798]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.02-00.18.13:813][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.02-00.18.16:139][895]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-00.18.16:509][895]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.18.16:537][895]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.18.17:586][915]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.02.02-00.18.17:586][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2020.02.02-00.18.17:586][915]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.02-00.18.17:586][915]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.02-00.18.17:586][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.02-00.18.17:586][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.02-00.18.18:986][970]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.18.19:735][970]LogBlueprint: Error: [Compiler NewMainCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.02.02-00.18.20:321][970]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2020.02.02-00.18.45:851][937]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.18.46:815][937]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.02.02-00.18.54:064][211]BlueprintLog: New page: Compile NewMainCharacter
+[2020.02.02-00.18.55:063][211]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2020.02.02-00.21.44:987][508]LogEditorTransaction: Undo Add Node
+[2020.02.02-00.21.45:112][508]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.21.45:140][508]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.21.46:996][559]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.02.02-00.21.46:996][559]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2020.02.02-00.21.46:996][559]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.02-00.21.46:996][559]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.02-00.21.46:996][559]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.02-00.21.46:996][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.02-00.21.58:902][ 60]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.21.59:160][ 60]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 3' does not inherit from 'Scene Component' ( Cast To BP_KillFloor_3  would always fail).
+[2020.02.02-00.21.59:160][ 60]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 2' does not inherit from 'Scene Component' ( Cast To BP_KillFloor_2  would always fail).
+[2020.02.02-00.21.59:680][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2020.02.02-00.22.15:965][855]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.22.15:970][855]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 3' does not inherit from 'BP Checkpoint' ( Cast To BP_KillFloor_3  would always fail).
+[2020.02.02-00.22.15:971][855]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 2' does not inherit from 'BP Checkpoint' ( Cast To BP_KillFloor_2  would always fail).
+[2020.02.02-00.22.16:442][855]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.02.02-00.22.21:604][135]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.22.21:609][135]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_3  to imply a specific type.
+[2020.02.02-00.22.21:610][135]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_2  to imply a specific type.
+[2020.02.02-00.22.21:610][135]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.22.21:610][135]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.22.22:018][135]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.02.02-00.23.11:446][908]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2020.02.02-00.23.13:196][908]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_Auto281F09BF442CB182D4D8F6895D120BFCC.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/MAP_3rd_Auto2.umap'
+[2020.02.02-00.23.13:298][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/MAP_3rd' took 1.958
+[2020.02.02-00.23.13:298][908]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.958
+[2020.02.02-00.23.13:308][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/NewMainCharacter] ([1] browsable assets)...
+[2020.02.02-00.23.13:308][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/NewMainCharacter]
+[2020.02.02-00.23.17:011][908]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/NewMainCharacter_Auto2C7F8170049EF6501602123B5DA89F66F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/NewMainCharacter_Auto2.uasset'
+[2020.02.02-00.23.17:068][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/CustomBP/BP_KillFloor_3] ([1] browsable assets)...
+[2020.02.02-00.23.17:068][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/CustomBP/BP_KillFloor_3]
+[2020.02.02-00.23.17:723][908]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BP_KillFloor_3_Auto2F7643FAF4AB4A47CA651D092B7AC4F8E.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/CustomBP/BP_KillFloor_3_Auto2.uasset'
+[2020.02.02-00.23.17:796][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/CustomBP/BP_Checkpoint] ([1] browsable assets)...
+[2020.02.02-00.23.17:796][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/CustomBP/BP_Checkpoint]
+[2020.02.02-00.23.18:286][908]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BP_Checkpoint_Auto2C37FD76240133EFC2EA7DE859CFF1F26.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/CustomBP/BP_Checkpoint_Auto2.uasset'
+[2020.02.02-00.23.18:326][908]LogFileHelpers: Auto-saving content packages took 5.022
+[2020.02.02-00.23.31:455][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-00.24.40:777][342]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.24.40:782][342]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 3' does not inherit from 'Character' ( Cast To BP_KillFloor_3  would always fail).
+[2020.02.02-00.24.40:782][342]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 2' does not inherit from 'Character' ( Cast To BP_KillFloor_2  would always fail).
+[2020.02.02-00.24.41:210][342]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.02.02-00.25.11:934][766]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.25.11:940][766]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 3' does not inherit from 'Game Mode Base' ( Cast To BP_KillFloor_3  would always fail).
+[2020.02.02-00.25.11:940][766]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 2' does not inherit from 'Game Mode Base' ( Cast To BP_KillFloor_2  would always fail).
+[2020.02.02-00.25.12:421][766]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.02.02-00.25.25:335][454]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.25.25:340][454]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_3  to imply a specific type.
+[2020.02.02-00.25.25:340][454]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_2  to imply a specific type.
+[2020.02.02-00.25.25:340][454]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.25.25:341][454]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.25.25:766][454]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.02.02-00.25.29:739][644]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-00.25.29:892][644]LogMaterial: Display: Missing cached shader map for material MAT_TestCyclinder, compiling. 
+[2020.02.02-00.25.29:926][644]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 21
+[2020.02.02-00.25.29:926][644]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2020.02.02-00.25.29:926][644]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 19
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 18
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 15
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 13
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 12
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 11
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 10
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 7
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 6
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 5
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 3
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2020.02.02-00.25.29:927][644]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2020.02.02-00.25.31:369][680]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.25.31:376][680]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 3' does not inherit from 'Game Mode Base' ( Cast To BP_KillFloor_3  would always fail).
+[2020.02.02-00.25.31:377][680]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 2' does not inherit from 'Game Mode Base' ( Cast To BP_KillFloor_2  would always fail).
+[2020.02.02-00.25.31:923][680]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2020.02.02-00.25.32:027][681]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.02.02-00.25.32:027][681]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2020.02.02-00.25.32:027][681]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.02-00.25.32:027][681]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.02-00.25.32:027][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.02-00.25.32:027][681]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.02-00.25.35:933][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-00.25.35:996][879]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-00.25.36:096][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.25.36:096][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-00.25.36:096][879]PIE: New page: PIE session: MAP_3rd (Feb 1, 2020, 2:25:36 PM)
+[2020.02.02-00.25.36:097][879]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-00.25.36:105][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007648s)
+[2020.02.02-00.25.36:106][879]LogAIModule: Creating AISystem for world MAP_3rd
+[2020.02.02-00.25.36:107][879]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2020.02.02-00.25.36:107][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/MAP_3rd.MAP_3rd to /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd (0.009765s)
+[2020.02.02-00.25.36:227][879]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2020.02.02-00.25.36:253][879]LogInit: XAudio2 using 'HP S340c (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-00.25.36:270][879]LogInit: FAudioDevice initialized.
+[2020.02.02-00.25.36:281][879]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.02-00.25.36:287][879]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_MAP_3rd.MAP_3rd up for play (max tick rate 0) at 2020.02.01-19.25.36
+[2020.02.02-00.25.36:287][879]LogWorld: Bringing up level for play took: 0.004763
+[2020.02.02-00.25.36:288][879]LogOnline: OSS: Creating online subsystem instance for: :Context_222
+[2020.02.02-00.25.36:293][879]PIE: Play in editor start time for /Game/Custom/Maps/UEDPIE_0_MAP_3rd -0.479
+[2020.02.02-00.25.36:293][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.25.46:843][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.25.46:843][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-00.25.46:843][740]LogWorld: BeginTearingDown for /Game/Custom/Maps/UEDPIE_0_MAP_3rd
+[2020.02.02-00.25.46:844][740]LogWorld: UWorld::CleanupWorld for MAP_3rd, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-00.25.46:883][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-00.25.46:883][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd' with GeneratedClass '/Game/Custom/Maps/MAP_3rd.MAP_3rd_C' with ClassGeneratedBy '/Game/Custom/Maps/MAP_3rd.MAP_3rd:PersistentLevel.MAP_3rd'
+[2020.02.02-00.25.47:026][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-00.25.47:035][740]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.02.02-00.25.47:112][741]LogPlayLevel: Display: Destroying online subsystem :Context_222
+[2020.02.02-00.25.51:892][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-00.26.08:993][ 12]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.26.08:998][ 12]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 3' does not inherit from 'Scene Component' ( Cast To BP_KillFloor_3  would always fail).
+[2020.02.02-00.26.08:998][ 12]LogBlueprint: Warning: [Compiler BP_Checkpoint] 'BP Kill Floor 2' does not inherit from 'Scene Component' ( Cast To BP_KillFloor_2  would always fail).
+[2020.02.02-00.26.09:448][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.02.02-00.32.17:876][418]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.32.17:882][418]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_3  to imply a specific type.
+[2020.02.02-00.32.17:883][418]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_2  to imply a specific type.
+[2020.02.02-00.32.17:883][418]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.32.17:883][418]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.32.18:432][418]LogUObjectHash: Compacting FUObjectHashTables data took  10.06ms
+[2020.02.02-00.33.05:149][930]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.33.05:155][930]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_3  to imply a specific type.
+[2020.02.02-00.33.05:155][930]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_2  to imply a specific type.
+[2020.02.02-00.33.05:155][930]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.33.05:155][930]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.33.05:540][930]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.02.02-00.33.59:008][936]BlueprintLog: New page: Compile BP_Checkpoint
+[2020.02.02-00.33.59:014][936]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_3  to imply a specific type.
+[2020.02.02-00.33.59:014][936]LogBlueprint: Error: [Compiler BP_Checkpoint] The type of  Object  is undetermined.  Connect something to  Cast To BP_KillFloor_2  to imply a specific type.
+[2020.02.02-00.33.59:014][936]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.33.59:014][936]LogBlueprint: Error: [Compiler BP_Checkpoint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.02-00.33.59:456][936]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2020.02.02-00.33.59:765][937]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.02.02-00.34.01:397][937]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/MAP_3rd_Auto3B4DE813F42AAC8756B3B30AAB292FFD5.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/Maps/MAP_3rd_Auto3.umap'
+[2020.02.02-00.34.01:458][937]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/MAP_3rd' took 1.782
+[2020.02.02-00.34.01:459][937]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.782
+[2020.02.02-00.34.01:469][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/NewMainCharacter] ([1] browsable assets)...
+[2020.02.02-00.34.01:469][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/NewMainCharacter]
+[2020.02.02-00.34.05:758][937]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/NewMainCharacter_Auto30A45D9044C2EF3836BF483B2EC6FCF01.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/NewMainCharacter_Auto3.uasset'
+[2020.02.02-00.34.05:850][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/CustomBP/BP_Checkpoint] ([1] browsable assets)...
+[2020.02.02-00.34.05:850][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/CustomBP/BP_Checkpoint]
+[2020.02.02-00.34.06:375][937]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/BP_Checkpoint_Auto3A6428789476921A842B33AAA727D4D21.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/GameJam2020/MyProject/Saved/Autosaves/Game/Custom/CustomBP/BP_Checkpoint_Auto3.uasset'
+[2020.02.02-00.34.06:433][937]LogFileHelpers: Auto-saving content packages took 4.966
